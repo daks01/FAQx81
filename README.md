@@ -19,10 +19,12 @@ FAQx81 постоянно развивается.
 
 ## Планы
 - [x] подсветить горячие ссылки
+- [x] сделать поиск
 - [ ] при переходе из поисковиков сделать промотку к стопслову
 - [ ] актуализировать битые ссылки
 - [ ] закрыть все активные [issues](https://github.com/daks01/FAQx81/issues)
-- [ ] смерджить faq на [drive2](https://drive2.ru/c/574975/), старую ветку на [tourerv.ru](http://tourerv.ru/forum/forumdisplay.php?f=80) и этот [FAQx81](https://daks01.github.io/FAQx81)
+- [x] смерджить faq на [drive2](https://drive2.ru/c/574975/) и этот [FAQx81](https://daks01.github.io/FAQx81)
+- [ ] смерджить старую ветку на [tourerv.ru](http://tourerv.ru/forum/forumdisplay.php?f=80) и этот [FAQx81](https://daks01.github.io/FAQx81)
 
 ### Структура проекта
 - `_layouts/default.html` - шаблон
@@ -40,17 +42,11 @@ FAQx81 постоянно развивается.
 **внешние переходы:**
 - [Яндекс.Метрика](https://metrika.yandex.ru/stat/links?group=day&period=year&id=51819752&stateHash=5c52cc5b995fb633e5cbc505)
 - экспорт cтатистики в csv
-- переименовать клонку 'Адрес' в 'url'
-- переименовать клонку 'Просмотры' в 'value'
-- конвертонуть в json https://www.csvjson.com/csv2json
-- удалить первый объект
+- конвертировать в json https://www.csvjson.com/csv2json
 - обновить json `heatmapdata-external-clicks.json`
 
 **внутрение:**
 - [Яндекс.Метрика](https://metrica.yandex.com/stat/popular?period=year&id=51819752&stateHash=5c52cbe5c21f174034394045)
 - экспорт cтатистики в csv
-- переименовать клонку 'Адрес' в 'url'
-- переименовать клонку 'Просмотры' в 'value'
-- конвертонуть в json https://www.csvjson.com/csv2json
-- удалить первый объект
+- конвертировать в json https://www.csvjson.com/csv2json
 - добавить в json-файл `heatmapdata-internal-clicks.json`

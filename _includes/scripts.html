@@ -28,18 +28,22 @@
                     const counterList = data.map((e) => e['Количество переходов']);
                     // const medianNumber = median(counterList);
                     const centralNumber = mean(counterList);
+                    const totalClicks = counterList.shift();
+                    counterList.sort((a, b) => a - b);
+                    const largestViews = counterList[counterList.length - 1];
 
                     data.forEach((e) => {
                         let src = e['Внешняя ссылка'].replace('https://daks01.github.io/FAQx81/','');
                         
                         let links = document.querySelectorAll(`a[href="${src}"]`);
                         links.forEach((item) => {
-                            const number = e['Количество переходов'];
+                            const clicksOnItem = e['Количество переходов'];
                             if (!document.body.contains(item) 
-                                || number < centralNumber) {
+                                || clicksOnItem < centralNumber) {
                                 return;
                             }
-                            const counter = `<sup title="🡕${number}">🔥</sup>`
+                            const clicksInPercents = 100 / (largestViews) * clicksOnItem;
+                            const counter = `<sup title="Переходов: ${clicksOnItem}" style="font-size: ${clicksInPercents < 35 ? 70 : 90}%;">🔥</sup>`
                             item.innerHTML += counter;
                         });
                     });
