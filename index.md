@@ -995,6 +995,7 @@ BN-Sport
 
 ## Русский язык
 - русскоязычные мануалы [vk.com/…](https://vk.com/wall-31295460_601282)
+- по 70-м кузовам, но тоже много полезного  [vk.com/…](https://vk.com/@x71squad-faq-novichkam-i-tem-kto-propustil)
 
 ## Англоязычные сайты. Японские сервисные мануалы
 - (ВАЖНО) англо/японоязычная инфа по всем моделям и кузовам [jzxproject.com...](https://jzxproject.com/bbs/index.php?/topic/10809-toyota-x-chassis-workshop-manual-and-wiring-guide-motherload/)
