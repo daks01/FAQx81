@@ -384,6 +384,7 @@
 - газовые упоры капота -> FENOX для задней двери Нивы ВАЗ2121, 2131, 2108 (290Н сила) - резьба [drive2.ru/…](https://drive2.ru/l/288230376152036717/) && гайка [drive2.ru/…](https://drive2.ru/l/288230376152059883) && гайки [drive2.ru/…](https://drive2.ru/l/6098/) ?? [drive2.ru/…](https://drive2.ru/experience/toyota/g2385/)
 - газовые упоры от 2112 (альтернативный путь) [drive2.ru/…](https://drive2.ru/l/511520572983738828/)
 - газовые упоры от 2104 2121 2110 Fenox A901 001 [drive2.ru/…](https://drive2.ru/b/1091965)
+- установка упоров капота без стоковых кронштейнов  [vk.com/…](https://vk.com/wall-31295460_805661?reply=805673&thread=805662)
 
 ## Подвесной
 - ориг. подвесной подшипник от от gx100: 37230-22110, 37230-30152, 3723030151, 3723022120 (6-9к)  - [drive2.ru/…](https://drive2.ru/l/465620910326416279/)
@@ -610,7 +611,6 @@
 - потухла индикация PRND2L на калькуляторе: 99% минусовой провод круглой колодки возле коробаса
 - инструкция по разборке панели управления климатом [drive2.ru/…](https://drive2.ru/l/558337228338627324/)
 - инструкция по разбору калькулятора [drive2.ru/…](https://drive2.ru/l/559126127931556883/)
-- подсветка личинки замка двери  [vk.com/…](https://vk.com/wall-31295460_672337)
 - восстановление кондёра после свапа [vk.com/…](https://vk.com/wall-31295460_696129)
 - распиновка подкапотной косы [docs.google.com/…](https://docs.google.com/document/d/1Rt6SlDWhACZjzexntdM2IuG0g7q9UlmH9R1x_yB1_tA/edit)
 
@@ -636,6 +636,7 @@
 - парктроник - распиновка [drive2.ru/…](https://drive2.ru/l/500049093293244967/)
 - парктроник. Подключение [drive2.ru/…](https://drive2.ru/l/503782485025359013/)
 - омыватель фар - [vk.com/…](https://vk.com/wall-31295460_611084) && [www.instagram.com/…](https://www.instagram.com/p/BhvyCcNl25v/)
+- подсветка личинки замка двери  [vk.com/…](https://vk.com/wall-31295460_672337) и [drive2.ru/…](https://www.drive2.ru/l/632914078393701772/) и [drive2.ru/…](https://www.drive2.ru/l/625238387720193929/) и [drive2.ru/…](https://www.drive2.ru/l/526871954330747035/)
 
 
 
@@ -736,6 +737,7 @@
 - переделка задних фонарей в белые\черные - [drive2.ru/…](https://drive2.ru/l/5097876/) && [tourerv.ru/…](http://tourerv.ru/forum/showpost.php?p=2234912&postcount=47)
 - артикулы цоколей в заднюю РЕСТ оптику: C-7443 (три провода), С-7440 (два провода) [vk.com/…](https://vk.com/wall-31295460_763250?hash=3b38352b43a10f8fe9)
 - клипсы задних фонарей дореста  [drive2.ru/…](https://www.drive2.ru/l/640530120561399214/)
+- патрон лампы стопа bay15d [drive2.ru/…](https://www.drive2.ru/l/633467132742468962/)
 
 ## Салон
 - псевдо-оптитрон из сток приборки [drive2.ru/…](https://drive2.ru/l/488621044312047714/)
@@ -828,6 +830,7 @@ NB проверяйте отзывы!
 - губа, губа гтр, спойлер ямаха - [vk.com/…](https://vk.com/wall-31295460_637563)
 - подиум под датчик - [drive2.ru/…](https://drive2.ru/l/4899916394579312791/)
 - ArtTunung38 [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) && [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html) && [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-toyota-mark-ii-81-81968063.html)
+- зимние маски для рест оптики [vk.com/…](https://vk.com/wall-31295460_805460)
 
 ## Крылья
 - Yurran 6к - [drive2.ru/…](https://drive2.ru/b/2102016/)
