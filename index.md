@@ -102,6 +102,8 @@
 - задние рычаги. стоит переделать под сменные рулевые наконечники [vk.com/…](https://vk.com/wall-31295460_526950) && [vk.com/…](https://vk.com/wall-31295460_513814) && [drive2.ru/…](https://drive2.ru/l/2858093/) (передние с x81)
 - задние рычаги регулируемые (модно разварены) [drive2.ru/…](https://drive2.ru/l/505609598472814918/)
 - тоже комплект от Малахова [vk.com/…](https://vk.com/wall-31295460_732700)
+- задние верхние рычаги от jzs155 [youtu.be/…](https://youtu.be/qOx2gtebzV0b) 
+- задние верхние рычаги от 90 [drive2.ru/…](https://www.drive2.ru/l/9247814/#comments)
 
 ## Шаровые
 - шаровые (задние рычаги) от хайлюкса CBT63 либо оригинал либо JIKIU - JB26881 - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) && [drive2.ru/…](https://drive2.ru/l/472915620220895459/) && [vk.com/…](https://vk.com/wall-31295460_612273?reply=612322)
@@ -131,7 +133,6 @@
 - подбор по размеру - [hanse-online.ru/…](http://hanse-online.ru/index.php/main/result/) - [www.masuma.ru/…](http://www.masuma.ru/size.php?type=sailent_size) - [www.jikiu.com/…](http://www.jikiu.com/catalogue/productsizemenu#productsizemenu)
 - jukiu на 81 - [www.jikiu.com/…](http://www.jikiu.com/catalogue/#/88/21138/jzx81)
 - ctr - [neoctr.kr/…](http://neoctr.kr/wru/search/partview.php?ctrno=CET-59)
-- задние верхние рычаги от jzs155 [youtu.be/…](https://youtu.be/qOx2gtebzV0b) и вроде от 90 встают
 - самая адекватная смазка для шаровых наконечников это шрб 4 - [vk.com/…](https://vk.com/wall-31295460_636353?reply=636418)
 - скрип полиуретана - надо подрезать [drive2.ru/…](https://drive2.ru/l/510623096617566365/)
 - [не работает](https://vk.com/wall-31295460_735038) переход на субро-рычаги, ступицы, стойки итд [drive2.ru/…](https://drive2.ru/l/513571986803261709/#comments)
@@ -273,6 +274,7 @@
 - регулируемые опоры стоек (чертеж) - [vk.com/…](https://vk.com/wall-31295460_543490)
 - ЧЕРТЕЖ: регулируемые опоры стоек [vk.com/…](https://vk.com/wall-96463523_311) && [vk.com/…](https://vk.com/wall-31295460_543490?reply=543512)
 - все варианты для колов [vk.com/…](https://vk.com/wall-31295460_618985?reply=619033)
+- опоры передние fdmetalwork [vk.com/…](https://vk.com/wall-139119461_286)
 
 ## Пружины
 - пружины AJS (6.5к) [ajs.su/…](http://ajs.su/search/?query=jzx81)
@@ -364,6 +366,7 @@
 - подушка 1g (вроде по кроссам бьется) - JIKIU ME21066H
 - с переделками встаёт от 110 [drive2.ru/…](https://drive2.ru/l/567316664924766354/)
 - жигоподушки на 4S [drive2.ru/…](https://drive2.ru/l/533636699620639390/)
+- 
 
 ## Подушка кпп
 видов подушек была хренова куча (от коробки зависит)
@@ -450,12 +453,14 @@
 
 # Распорки
 
-## Передняя трехточечная
+## Трехточечная
 - распорка заводская, новая - 6.5к [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53607A/) && 500р [toyota.epcdata.ru/…](https://toyota.epcdata.ru/cresta/jzx81/95761/body/5304/53692/)
 - весь кит передней распорки - [drive2.ru/…](https://drive2.ru/l/9696258/) (болты, вакуумная трубка) && [drive2.ru/…](https://drive2.ru/l/526883224324933528/)
 - размеры оригинальной распорки и чертеж крепления к кузову [vk.com/…](https://vk.com/x81squad?w=wall-31295460_468988) && [drive2.ru/…](https://drive2.ru/l/490587520858325032/)
 - распорка японская трехточечная + между стоек [a.d-cd.net/…](https://a.d-cd.net/55d44d4s-960.jpg) && [a.d-cd.net/…](https://a.d-cd.net/7f244d4s-960.jpg)
 - распорка и tems-чашки [drive2.ru/…](https://drive2.ru/l/5080333/) &&  говорят к крепления tems не подходит - [f-a.d-cd.net/…](https://f-a.d-cd.net/790b626s-960.jpg) && а вот на японском сайте со всеми oem и этапами установки под tems-крышки [www5d.biglobe.ne.jp/…](http://www5d.biglobe.ne.jp/~tefutefu/car/towerbar.html)
+- распорка Taiko (ajs) перед [ajs.su/…](https://ajs.su/taiko-rasporka-perednikh-stoek-toyota-jzx81-1/)
+- распорка Taiko (ajs) зад [ajs.su/…](https://ajs.su/taiko-rasporka-zadnikh-stoek-toyota-jzx81/)
 
 ## От автоваза
 - распорка от ваза 2114 инжекторная. Только отверстия на стойках не совпадают
@@ -615,7 +620,6 @@
 - потухла индикация PRND2L на калькуляторе: 99% минусовой провод круглой колодки возле коробаса
 - инструкция по разборке панели управления климатом [drive2.ru/…](https://drive2.ru/l/558337228338627324/)
 - инструкция по разбору калькулятора [drive2.ru/…](https://drive2.ru/l/559126127931556883/)
-- восстановление кондёра после свапа [vk.com/…](https://vk.com/wall-31295460_696129)
 - распиновка подкапотной косы [docs.google.com/…](https://docs.google.com/document/d/1Rt6SlDWhACZjzexntdM2IuG0g7q9UlmH9R1x_yB1_tA/edit)
 
 ## Калькулятор
@@ -755,6 +759,7 @@
 - лампочки в щитке приборов 99132-12034 с зелеными шляпами. + лампа в пиктограмме "ручник" 90981-11014 [g-a.d-cd.net/…](https://g-a.d-cd.net/7e14ac8s-960.jpg)
 - родные лампы климата 81938-22110. родные мини-лампочки типа TSD, с патронами, самой лампочкой и г*ндончиками от климата jzx100, которые идеально подходят везде где есть цоколь TSD в 81кузов - 90010-03003 (в приборке камри **90072-02006**) (климат, акпп, приборка) 90072-02020 (зеленый презик), 90010-01122 (желтый презик) и **Koito 1563**(x10)
 - лампы климата Koito E1581 патрон T4 [vk.com/…](https://vk.com/wall-31295460_663924?reply=793412)
+- лампы в приборку Koito Е1548 [vk.com/…](https://vk.com/wall-31295460_799667)
 
 ## Евросвет
 - полноценный евросвет не получится [drive2.ru/…](https://drive2.ru/l/7776236#comments)
@@ -961,6 +966,14 @@ BN-Sport
 
 # Свап
 
+## АКПП->МКПП
+- Гцс от хай люкса [vk.com/…](https://vk.com/wall-31295460_804816)
+- мкпп R28 R30 от опеля (5-7к) [vk.com/…](https://vk.com/wall-31295460_793839) и [drive2.ru/…](https://www.drive2.ru/l/470196802843312273/)
+- колокол w5* для 1-2jz не за конь [vk.com/…](https://vk.com/wall-31295460_781552)
+
+## Общие тонкости
+- восстановление кондёра после свапа [vk.com/…](https://vk.com/wall-31295460_696129)
+
 ## 1UZ-FE
 - Всё и сразу [drive2.ru/…](https://drive2.ru/l/549993034595436979/)
 
@@ -986,7 +999,7 @@ BN-Sport
 - Рулевая рейка Ч.3  [drive2.ru/…](https://drive2.ru/c/1073538/)
 
 ## 2JZ-GE VVT-i
-- Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/c/455549108938082000/)
+- Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/c/455549108938082000/) оно же [vk.com/…](https://vk.com/wall-31295460_803987)
 
 ## 2JZ-GTE
 - Вступление  [drive2.ru/…](https://drive2.ru/c/1072177/)
