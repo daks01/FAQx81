@@ -5,15 +5,15 @@
 </head>
 <body>
     <div class="page-layout">
-        <aside class="page-layout__sidebar" id="menu">
-            <nav>
+        <aside class="page-layout__sidebar">
+            <div>
                 <div class="mobile-show" style="text-align: center;">
                     {% include pagetitle.html %}
                 </div>
-                <div class="toc-menu">
+                <nav class="toc-menu" id="menu">
                     {% include toc.html html=content %}
-                </div>
-            </nav>
+                </nav>
+            </div>
         </aside>
         <main class="page-layout__content">
             <div class="page-layout__content-inner">
