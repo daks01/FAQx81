@@ -988,8 +988,15 @@ BN-Sport
 * Трос спидометра от хайса OEM#8371025120
 * Трос спидометра от вага TSK9TI0162
 
-## Датчики
-* Датчик заднего хода МКПП 84210-30060 [AliExpress](https://ru.aliexpress.com/item/84210-30060-Reverse-Light-Switch-For-Suzuki-Grand-Vitara-Toyota-Supra-Lexus/32806622475.html)
+## МКПП
+* ГЦС от Хайлюкса FR-285 [vk.com/…](https://vk.com/wall-31295460_804816)
+* МКПП R28 и R30 от опеля:
+  + [vk.com/…](https://vk.com/wall-31295460_793839) 
+  + [drive2.ru/…](https://www.drive2.ru/l/470196802843312273/)
+
+
+* Колокол w5* для 1-2jz 14-17к [AJS](https://ajs.su/kolokol-mkpp-w55-58-dlya-1-2jz/)
+* Датчик заднего хода МКПП 84210-30060 600р [AliExpress](https://ru.aliexpress.com/item/84210-30060-Reverse-Light-Switch-For-Suzuki-Grand-Vitara-Toyota-Supra-Lexus/32806622475.html)
 
 
 # Двигатель
@@ -1018,11 +1025,6 @@ BN-Sport
 
 
 # Свап
-
-## АКПП->МКПП
-- Гцс от хай люкса [vk.com/…](https://vk.com/wall-31295460_804816)
-- мкпп R28 R30 от опеля (5-7к) [vk.com/…](https://vk.com/wall-31295460_793839) и [drive2.ru/…](https://www.drive2.ru/l/470196802843312273/)
-- колокол w5* для 1-2jz не за конь [vk.com/…](https://vk.com/wall-31295460_781552)
 
 ## Общие тонкости
 - восстановление кондёра после свапа [vk.com/…](https://vk.com/wall-31295460_696129)
