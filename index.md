@@ -311,11 +311,27 @@
 - заменитель поршня в тормозах: передний суппорт SG500048 + токарь [vk.com/…](https://vk.com/wall-31295460_796201), задний суппорт BC-4123 Lynx [drive2.ru/…](https://www.drive2.ru/l/614835633331907336/)
 
 ## ГТЦ
-- ГТЦ от 100'ки (2,5к) [drive2.ru/…](https://drive2.ru/l/9761282/) && [drive2.ru/…](https://drive2.ru/l/9752969/) && [drive2.ru/…](https://drive2.ru/c/2167643/) && [drive2.ru/…](https://drive2.ru/c/2723627/) 
-- про контуры гтц от 100 [drive2.ru/…](https://drive2.ru/l/3420488/?page=0#a149127070) && [drive2.ru/…](https://drive2.ru/l/531412112719742457/) и ещё [здесь](https://vk.com/wall-31295460_671544?reply=671725)
-- упор гтц [vk.com/…](https://vk.com/wall-31295460_560297) && [drive2.ru/…](https://drive2.ru/l/531412112719742457/) && [drive2.ru/…](https://drive2.ru/l/5615347/) (упор) 
-- упор гтц 1,2к в SMT174 - [vk.com/…](https://vk.com/market-96001230?w=product-96001230_814748%2Fquery) && чертеж [drive2.ru/…](https://drive2.ru/l/5615347)
-- Отличия ГТЦ x100 [drive2.ru/…](https://www.drive2.ru/l/631948982062419243/)
+* ГТЦ от 100 кузова:
+   + [drive2.ru/…](https://drive2.ru/l/9761282/)
+   + [drive2.ru/…](https://drive2.ru/l/9752969/)
+   + [drive2.ru/…](https://drive2.ru/c/2167643/) 
+   + [drive2.ru/…](https://drive2.ru/c/2723627/) 
+<br>
+<br>
+* Про контуры гтц от 100:
+  + [drive2.ru/…](https://drive2.ru/l/3420488/?page=0#a149127070) 
+  + [drive2.ru/…](https://drive2.ru/l/531412112719742457/) 
+  + [vk.com/wall...](https://vk.com/wall-31295460_671544?reply=671725)
+<br>
+<br>
+* Упор гтц:
+  + [AJS 800р](https://ajs.su/upor-gtts-toyota-gx81/)
+  + [SMT174 1200р](https://vk.com/market-96001230?w=product-96001230_814748%2Fquery)
+  + [Custom + чертеж](https://drive2.ru/l/5615347/)
+<br>
+<br>
+* Отличия х80 от ГТЦ x100 [drive2.ru/…](https://www.drive2.ru/l/631948982062419243/)
+* Замена манжетов +-300р [vk.com/wall...](https://vk.com/wall-31295460_810404)
 
 ## Колодки
 - колодки. какие выбрать [vk.com/…](https://vk.com/wall-31295460_561722)
