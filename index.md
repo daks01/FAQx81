@@ -890,54 +890,76 @@
 
 ---
 Обязательно проверяйте отзывы!!
-
 есть мутные типы с непостоянным качеством и пролюбленной отправкой
 
-- куча всего (видимо с японии) [tuningatar.ru/…](http://tuningatar.ru/katalog/mark2-89-92)
-- дефлектор люка [tuningatar.ru/…](http://tuningatar.ru/products/deflektor-na-lyuk-dymchatyj-mark2-88-92g)
-- оригинальное крепление козырька - [pp.userapi.com/...](https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg)
-- кастом крепление козырька - [drive2.ru/…](https://drive2.ru/l/453332218618578531/) && [drive2.ru/…](https://drive2.ru/experience/toyota/g2693/)
+## Производители:
+* Магазин GT-composite:
+  + [Группа в VK](https://vk.com/gtcomposite)
+  + [Магазин в VK](https://vk.com/market-106467375)
+  + [Группа на Drive2](https://drive2.ru/l/5802653)
 
-# Разное
+* Магазин [Tuningator](http://tuningatar.ru/katalog/mark2-89-92)
+* Магазин [ArtTunung38](https://www.farpost.ru/user/ArtTuning38/)
+* Магазин [D_Apex works](https://vk.com/d_apex_works)
+* Магазин OBERtka:
+  + [Группа в VK](https://vk.com/oberv)
+  + [Магазин в VK](https://vk.com/market-61653724)
+  + [Товары для 80х кузовов](https://vk.com/album-61653724_183002895)
+* Бабичев [Страница в VK](https://vk.com/id144325960)
+* Ледяев [Страница в VK](https://vk.com/ledyaev_days)
+* Шевченко [Страница в VK](https://vk.com/shevchenko_356)
+* Карамышев [Страница в VK](https://vk.com/antohakartoha29)
+* Масаков [Страница в VK](https://vk.com/metal.mulisha)
 
----
-- крышка левого динамика [drive2.ru/…](https://drive2.ru/l/9558775/)
-- Yurran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://drive2.ru/l/9438393/#comments) && [pp.vk.me/...](https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg)
-- Yurran - крылья на кресту, спойлер ducktail, площадка акб, бардачек в багажник, губа, губа gtr, пороги [vk.com/…](https://vk.com/gtcomposite) && [vk.com/…](https://vk.com/market-106467375) && [drive2.ru/…](https://drive2.ru/l/5802653)
-- Yurran - поддон под акб 600 [vk.com/…](https://vk.com/gtcomposite?z=photo-106467375_388323624%2Falbum-106467375_223381356%2Frev)
-- губа ГТР, дактейл, козырек на чайзера, марк - [vk.com/…](https://vk.com/wall-31295460_408530)
-- дактейл, губа [vk.com/…](https://vk.com/wall-31295460_415033)
-- Ober - BN-Sport бампер перед 8500, крылья BigWin 8, пороги 6, спойлер, козырек на заднее стекло(!) 3к, бампер by Ober [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://drive2.ru/l/5007108/)
-- D-apex решетка Hippo Sleak (рестайлинг) [vk.com/…](https://vk.com/d_apex_works) (видимо онже [drive2.ru/…](https://drive2.ru/l/509421055530500138/))
-- Agf Козырек на стекло 2500 Марк [vk.com/…](https://vk.com/wall-31295460_376849)
-- пластикоовые накладки на пороги от хонда аккорд торнео (98-2001) (1.5-2.5к) прямые и с изгибом. Почти болтон - [drive2.ru/…](https://drive2.ru/l/482545967690678391/) ( Honda Accord, CL1, CL3, CF3, CF5, E-CF4, CF4, E-CF5Honda Torneo, E-CF4, CF4, CF3, E-CF5, CF5, CL1, CL3. )
-- козырек. Креста. 1.5к - [vk.com/…](https://vk.com/wall-106709966_48465)
-- Бабичев. дактейл 4к [drive2.ru/…](https://drive2.ru/l/489524567992172689/#comments)
-- Бабичев. Молдинги jzx 6.5к [vk.com/…](https://vk.com/wall-31295460_591609) && [vk.com/…](https://vk.com/wall-31295460_593040)
-- FixBrix (Надобко) дактейл - [vk.com/…](https://vk.com/wall-31295460_594346)
-- пороги автописта, клыки, губа ямаха - [vk.com/…](https://vk.com/wall-106709966_58206)
-- Yuran расширение на задние крылья [vk.com/…](https://vk.com/wall-31295460_631156) && [drive2.ru/…](https://drive2.ru/l/507784982228369686/)
-- губа, губа гтр, спойлер ямаха - [vk.com/…](https://vk.com/wall-31295460_637563)
-- подиум под датчик - [drive2.ru/…](https://drive2.ru/l/4899916394579312791/)
-- ArtTunung38 [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) && [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html) && [farpost.ru/...](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-toyota-mark-ii-81-81968063.html)
-- зимние маски для рест оптики [vk.com/…](https://vk.com/wall-31295460_805460)
+## Разное
+
+* [Кастом крепление козырька](https://drive2.ru/l/453332218618578531/) 
+* [Оригинальное крепление козырька](https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg)
+* [Крышка левого динамика](https://drive2.ru/l/9558775/)
+* [Поддон для акб от GT-composite](https://vk.com/market-106467375?screen=group&w=product-106467375_96949%2Fquery)
+* Короб для мелочей в багажник от GT-composite:
+  + [Вариант 1](https://vk.com/feed?w=wall-31295460_296418)
+  + [Вариант 2](https://drive2.ru/l/9438393/#comments)
+* [Накладки на пороги от хонда аккорд/торнео (98-2001)](https://drive2.ru/l/482545967690678391/) Нужно допиливать
+* [Бабичев. Молдинги jzx](https://vk.com/wall-31295460_591609)
+* [Обвес AutoPista вкруг](https://vk.com/wall-106709966_58206)
+* GT-composite расширение на задние крылья:
+  + [Вариант 1](https://vk.com/wall-31295460_631156)
+  + [Вариант 2](https://drive2.ru/l/507784982228369686/)
+  
+* [Подиум под датчик](https://drive2.ru/l/4899916394579312791/)
+* [Маски для рест оптики](https://vk.com/wall-31295460_805460)
+* (<b>Вероятно не актуально</b>) [Губа, губа гтр, спойлер ямаха от Руснева](https://vk.com/wall-31295460_637563)
+* (<b>Вероятно не актуально</b>) [Козырек на стекло Марк ХТ от Agf](https://vk.com/wall-31295460_376849)
+* (<b>Вероятно не актуально</b>) [Козырек на стекло Креста от Макарова](https://vk.com/wall-106709966_48465)
+
+## Спойлеры
+* [Утиный хвост Yamaha от Kfd](https://vk.com/market-55766193?w=product-55766193_4074132) 7500р
+* [Утиный хвост от FixBrix(Надобко)](https://vk.com/wall-31295460_594346)
+* [Утиный хвост от Бабичева](https://drive2.ru/l/489524567992172689/#comments)
+
 
 ## Крылья
-- Yurran 6к - [drive2.ru/…](https://drive2.ru/b/2102016/)
-- D-apex задние крылья(7к) + накладки на задние двери(6к) [drive2.ru/…](https://drive2.ru/l/457168139809980920/)
-- накладки задних крыльев марк,чейзер 7к  [vk.com/…](https://m.vk.com/wall-31295460_424621?post_add#post_add)
-- крылья без расширения. креста (4.5к) - [drive2.ru/…](https://drive2.ru/c/3023131/) && [vk.com/…](https://vk.com/feed?w=wall-31295460_507045_r507241)
-- крылья колхозного производства [drive2.ru/…](https://drive2.ru/l/471139634064130884/)
-- Ober - крылья BigWin [vk.com/…](https://vk.com/market-61653724?w=product-61653724_111920%2Fquery) && [vk.com/…](https://vk.com/market-61653724) [vk.com/…](https://vk.com/album-61653724_183002895) [drive2.ru/…](https://drive2.ru/l/5007108/)
-- D-apex крылья Big Win [vk.com/…](https://vk.com/d_apex_works)
-- Agf Крылья марк 7000 пара Задние крылья сток 7000 [vk.com/…](https://vk.com/wall-31295460_376849) && [vk.com/…](https://vk.com/wall-16140508_77)
-- расширение rocketbunny [vk.com/…](https://vk.com/wall-106709966_37853)
-- Шевченко. Передние креста-крылья без расширения [vk.com/…](https://vk.com/wall-31295460_701151)
-- Шевченко. Задние крылья 6к [vk.com/…](https://vk.com/wall-31295460_582264) && [vk.com/…](https://vk.com/wall-31295460_620953)
-- Шевченко. Задние крылья. Установка.[vk.com/…](https://vk.com/wall-31295460_620779) && [vk.com/…](https://vk.com/wall-31295460_620843) && [vk.com/…](https://vk.com/wall-31295460_620861)
-- крылья на чемодан [vk.com/…](https://vk.com/wall-31121113_1142)
-- доработка стеклопластиковых крыльев (с расширением) чтоб подкрылки прикрепить [vk.com/…](https://vk.com/wall-31295460_652017)
-- стеклоплоастик на чайзер 7к - [vk.com/…](https://vk.com/wall-31295460_682237) && [drive2.ru/…](https://drive2.ru/l/528158108057338986/#comments)
+* [GT-composite](https://drive2.ru/b/2102016/)
+* [D-apex крылья и накладки](https://drive2.ru/l/457168139809980920/)
+* [D-apex крылья Big Win](https://vk.com/d_apex_works)
+* [Масаков. Накладки задних крыльев марк,чейзер](https://vk.com/metal.mulisha)
+* Ледяев. Крылья передние без расширения на кресту:
+  + [Вариант 1](https://drive2.ru/c/3023131/) 
+  + [Вариант 2](https://vk.com/feed?w=wall-31295460_507045_r507241)
+* [OBERtka крылья BigWin](https://vk.com/album-61653724_183002895)
+* [Шевченко. Передние крылья Креста сток](https://vk.com/wall-31295460_701151)
+* Шевченко. Задние крылья Марк ХТ:
+  + [Покупка](https://vk.com/wall-31295460_582264) 
+  + Установка:
+    - [Шаг 1](https://vk.com/wall-31295460_620779) 
+    - [Шаг 2](https://vk.com/wall-31295460_620843) 
+    - [Шаг 3](https://vk.com/wall-31295460_620861)
+* [D-apex крылья перед на чемодан(Sedan)](https://vk.com/wall-31121113_1142)
+* [Доработка крыльев для установки подкрылков](https://vk.com/wall-31295460_652017)
+* [Карамышев. Крылья перед Чайзер сток](https://vk.com/wall-31295460_682237)
+* (<b>Вероятно не актуально</b>)[Agf Крылья зад Марк ХТ сток](https://vk.com/wall-16140508_77)
+* (<b>Вероятно не актуально</b>)[Расширение RocketBunny](https://vk.com/wall-106709966_37853)
 
 ## Губы
 - Yuran - губа (реплика) из стеклопластика - [drive2.ru/…](https://drive2.ru/b/288230376152219250/) && [drive2.ru/…](https://drive2.ru/b/2102016/)
@@ -1006,6 +1028,9 @@ BN-Sport
 - kfd (Илья Ковалев) - Autopista 5.5к [vk.com/…](https://vk.com/wall-31295460_555890)
 
 ## Капот\двери\багажник
+* [Капот ArtTunung38 Mark II HT](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) 
+* [Облегченные крылья ArtTunung38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html)
+* [Крышка багажника ArtTunung38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-toyota-mark-ii-81-81968063.html)
 - боди-кит стеклопластика 70к (можно отдельно) [vk.com/…](https://vk.com/wall-31295460_521684)
 - капот и двери [drive2.ru/…](https://drive2.ru/l/9498710/)
 - D-apex капот SelfMade (до рестайлинг), багажник [vk.com/…](https://vk.com/d_apex_works)
