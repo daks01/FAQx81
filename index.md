@@ -532,11 +532,19 @@
 
 
 # Печка
-- моторчик печки, крыльчатка от 100 - [vk.com/…](https://vk.com/wall-31295460_578454) && [drive2.ru/…](https://drive2.ru/l/524185847424092383/)
-- кран отопителя/печки от 90-100 [drive2.ru/…](https://drive2.ru/l/9808346/) && [vk.com/…](https://vk.com/wall-31295460_562186)
-- кран отопителя от короллы *100-110 [drive2.ru/…](https://www.drive2.ru/l/628146870853584723/)
-- ревизия печки. проклейка бипластом - [vk.com/…](https://vk.com/wall-31295460_629120)
-- электровентилятор от таза 2111-2123 (универсальный) LFh 01230 почти болтон [luzar.ru/…](https://luzar.ru/catalogue/elektroventilyatory/elektroventilyatory-otopitelya/elektroventilyator-otopitelya-2111-2123-lfh-01230/)
+* Моторчик печки:
+  + [Пост в ВК](https://vk.com/wall-31295460_578454)
+  + [от 100 кузова](https://drive2.ru/l/524185847424092383/)
+  + Почти болт он от [ВАЗ 2111-2123](https://luzar.ru/catalogue/elektroventilyatory/elektroventilyatory-otopitelya/elektroventilyator-otopitelya-2111-2123-lfh-01230/)
+
+
+* Кран отопителя/печки:
+  + [от 90-100 кузова](https://drive2.ru/l/9808346/)
+  + SAT 87240-22370
+  + SW 87240-22320 от короллы 100-110 [Статья на drive2](https://www.drive2.ru/l/628146870853584723/)
+
+
+* Ревизия печки. [Проклейка бипластом](https://vk.com/wall-31295460_629120)
 
 ## Промывка \ шомполение радиатора
 - снятие печки - [vk.com/…](https://vk.com/wall-31295460_570149) && [vk.com/…](https://vk.com/wall-31295460_570050)
