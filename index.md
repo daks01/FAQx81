@@ -600,6 +600,8 @@
 
 # Электрика
 
+---
+
 ## Реле на стартер
 - установка реле на стартер (с фото) [drive2.ru/…](https://drive2.ru/l/480640514039742648/) && [vk.com/…](https://vk.com/wall-31295460_603229?reply=603335) && Японец кидает реле на стартер [youtu.be/…](https://youtu.be/xtWv6iVoQqg) схема [drive2.ru/…](https://a.d-cd.net/ecad6c8s-960.jpg) && схема [drive2.ru/…](https://a.d-cd.net/1dc4b16s-960.jpg) 
 - кит реле на стартер (fdmetalwork) [m.vk.com/…](https://m.vk.com/wall-139119461_37)
@@ -654,16 +656,32 @@
 - переход с троса на датчик простыми словами - питание параллельно DOME(см. схемы), минус в любое место, сигнальный к фишке C по схеме, 4 пин со стороны проводов
 
 ## Доп. опции
-- кит метлы - [drive2.ru/…](https://drive2.ru/l/510976589605896906/)
-- датчик дождя - [drive2.ru/…](https://drive2.ru/l/510976589605896906/)
-- датчик заднего хода МКПП 84210-30060 [ru.aliexpress.com/…](https://ru.aliexpress.com/item/84210-30060-Reverse-Light-Switch-For-Suzuki-Grand-Vitara-Toyota-Supra-Lexus/32806622475.html)
-- кит заднего дворника [vk.com/…](https://vk.com/wall-31295460_539798)
-- задний дворник. установка - [vk.com/…](https://vk.com/wall-31295460_539798) && [drive2.ru/…](https://drive2.ru/l/488730170841104497/)
-- установка метлы на заднее стекло - [vk.com/…](https://vk.com/wall-31295460_539798) && [drive2.ru/…](https://drive2.ru/l/488730170841104497/)
-- парктроник - распиновка [drive2.ru/…](https://drive2.ru/l/500049093293244967/)
-- парктроник. Подключение [drive2.ru/…](https://drive2.ru/l/503782485025359013/)
-- омыватель фар - [vk.com/…](https://vk.com/wall-31295460_611084) && [www.instagram.com/…](https://www.instagram.com/p/BhvyCcNl25v/)
-- подсветка личинки замка двери  [vk.com/…](https://vk.com/wall-31295460_672337) и [drive2.ru/…](https://www.drive2.ru/l/632914078393701772/) и [drive2.ru/…](https://www.drive2.ru/l/625238387720193929/) и [drive2.ru/…](https://www.drive2.ru/l/526871954330747035/)
+* Датчик дождя - [drive2.ru/…](https://drive2.ru/l/510976589605896906/)
+* Кит заднего дворника:
+  + [vk.com/…](https://vk.com/wall-31295460_539798)
+  + [drive2.ru/…](https://drive2.ru/l/510976589605896906/)
+
+
+* Установка заднего дворника:
+  + [vk.com/…](https://vk.com/wall-31295460_539798) 
+  + [drive2.ru/…](https://drive2.ru/l/488730170841104497/)
+
+
+* Парктроник - распиновка [drive2.ru/…](https://drive2.ru/l/500049093293244967/)
+* Парктроник. Подключение [drive2.ru/…](https://drive2.ru/l/503782485025359013/)
+* Омыватель фар:
+  + [vk.com/…](https://vk.com/wall-31295460_611084) 
+  + [www.instagram.com/…](https://www.instagram.com/p/BhvyCcNl25v/)
+
+
+* Подсветка личинки замка двери:
+  + [vk.com/…](https://vk.com/wall-31295460_672337) 
+  + [drive2.ru/…](https://www.drive2.ru/l/632914078393701772/) 
+  + [drive2.ru/…](https://www.drive2.ru/l/625238387720193929/) 
+  + [drive2.ru/…](https://www.drive2.ru/l/526871954330747035/)
+
+
+* Часы с вольтметром и температурой [AliExpress](https://www.drive2.ru/l/548173342851465284/)
 
 
 
@@ -969,6 +987,10 @@ BN-Sport
 ## Трос спидометра
 * Трос спидометра от хайса OEM#8371025120
 * Трос спидометра от вага TSK9TI0162
+
+## Датчики
+* Датчик заднего хода МКПП 84210-30060 [AliExpress](https://ru.aliexpress.com/item/84210-30060-Reverse-Light-Switch-For-Suzuki-Grand-Vitara-Toyota-Supra-Lexus/32806622475.html)
+
 
 # Двигатель
 
