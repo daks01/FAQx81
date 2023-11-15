@@ -821,7 +821,7 @@
 - пороги екб [vk.com/…](https://vk.com/wall-52153620_73978)
 - гайд по замене порогов [drive2.ru/…](https://drive2.ru/l/535982507678500134/) и  [drive2.ru/…](https://drive2.ru/l/535994327428498035/)
 
-## Арки/крылья
+## Арки и крылья
 - задние арки, ремкомплект от гольф 2. VAN WEZEL 5812500 KLOKKERHOLM 9521595, арки от нивы, газели, пороги от волги [vk.com/…](https://vk.com/wall-31295460_554336)&& [vk.com/…](https://vk.com/wall-31295460_598351)
 - ремкомплект задних арок 1500р  [vk.com/…](https://vk.com/market-87598237?w=product-87598237_2984523)
 - ремкомплект арок - [vk.com/…](https://vk.com/wall-31295460_674209)
@@ -829,8 +829,11 @@
 
 
 
-# Стеклопластик итп
-NB проверяйте отзывы! 
+# Стеклопластик и т.п.
+
+---
+Обязательно проверяйте отзывы!!
+
 есть мутные типы с непостоянным качеством и пролюбленной отправкой
 
 - куча всего (видимо с японии) [tuningatar.ru/…](http://tuningatar.ru/katalog/mark2-89-92)
@@ -838,7 +841,9 @@ NB проверяйте отзывы!
 - оригинальное крепление козырька - [pp.userapi.com/...](https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg)
 - кастом крепление козырька - [drive2.ru/…](https://drive2.ru/l/453332218618578531/) && [drive2.ru/…](https://drive2.ru/experience/toyota/g2693/)
 
-## Разное
+# Разное
+
+---
 - крышка левого динамика [drive2.ru/…](https://drive2.ru/l/9558775/)
 - Yurran - короб для мелочей в багажник 1500 [vk.com/…](https://vk.com/feed?w=wall-31295460_296418) && [drive2.ru/…](https://drive2.ru/l/9438393/#comments) && [pp.vk.me/...](https://pp.vk.me/c633729/v633729796/24bb6/1advt8WKeVY.jpg)
 - Yurran - крылья на кресту, спойлер ducktail, площадка акб, бардачек в багажник, губа, губа gtr, пороги [vk.com/…](https://vk.com/gtcomposite) && [vk.com/…](https://vk.com/market-106467375) && [drive2.ru/…](https://drive2.ru/l/5802653)
@@ -958,9 +963,16 @@ BN-Sport
 - комплкт обвесов Диана Брилиант, брэнд, (передний бампер, пороги, зад. бампер) для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-obvesov-porogi-zad-bamper-mark2-92g)
 - комплкт обвесов АБС OLUTE для Toyota Mark2 (88-92г.) [tuningatar.ru/…](http://tuningatar.ru/products/komplkt-bamper-porogi-zad-bamper-mark2-88-92g)
 
+# КПП
 
+---
+## Трос спидометра
+* Трос спидометра от хайса OEM#8371025120
+* Трос спидометра от вага TSK9TI0162
 
 # Двигатель
+
+---
 
 ## Общие моменты
 - лямбда (1g) - переход на универсальную [drive2.ru/…](https://drive2.ru/l/511498307873276477/)
