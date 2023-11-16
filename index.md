@@ -947,7 +947,7 @@
 
 
 ## Крылья
-* [GT-composite](https://drive2.ru/b/2102016/)
+* [GT-composite](https://vk.com/gtcomposite)
 * [D-apex крылья и накладки](https://drive2.ru/l/457168139809980920/)
 * [D-apex крылья Big Win](https://vk.com/d_apex_works)
 * [Масаков. Накладки задних крыльев марк,чейзер](https://vk.com/metal.mulisha)
