@@ -930,7 +930,13 @@
 
 * Магазин [Tuningator](http://tuningatar.ru/katalog/mark2-89-92)
 * Магазин [ArtTunung38](https://www.farpost.ru/user/ArtTuning38/)
-* Магазин [D_Apex works](https://vk.com/d_apex_works)
+
+
+* Магазин [D_Apex works](https://vk.com/d_apex_works) !!<strong> Внимание </strong>!! 
+Много жалоб на цену и постоянный срыв сроков, будьте внимательны. 
+Помимо всего очень страдает качество продукции
+
+
 * Магазин [KGN Auto-tuning](https://vk.com/club54937175)
 * Магазин [Obvesoff](https://m.vk.com/tuningbarnaul)
 * Магазин [Greenproject.pro](https://vk.com/green_project)
