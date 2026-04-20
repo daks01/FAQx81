@@ -284,6 +284,7 @@
 - опоры передние fdmetalwork [vk.com/…](https://vk.com/wall-139119461_286)
 
 ## Пружины
+- пружины с занижением QUANTUM_JZX81-F (перед) / QUANTUM_JZX81-R (зад)
 - пружины AJS (6.5к) [ajs.su/…](http://ajs.su/search/?query=jzx81)
 - отзыв на пружины AJS - [drive2.ru/…](https://drive2.ru/l/517151172029579531/)
 - пружины TEIN S. TECH SOFT F3.4k R3.8k F-35mm R-37mm. ОЕМ от Tein S1T00-01034 FRONT и S1T01-01038 REAR это Мягкие. Бывают еще средние TEIN S. TECH MEDIUM F4.5k R5.1k ОЕМ от Tein S2T00-01045 и S2T01-01051
