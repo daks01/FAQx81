@@ -99,6 +99,7 @@
 - переделка под рулевые наконечники (шаг резьбы 14*1,5 + наконечники от короллы CET-80 / CET-59) [vk.com/…](https://vk.com/wall-31295460_548677) && НО есть и противники нарезания резьбы - [vk.com/…](https://vk.com/wall-31295460_609732?reply=609743)
 - все варианты для ответа в vk - [vk.com/…](https://vk.com/wall-31295460_609732?reply=609761)
 - задние рычаги. заменитель 1.2к R8 (китай) 48710-22240 [www.r8-parts.ru/…](http://www.r8-parts.ru/ru/catalog/filter.html?brandId=1&modelId=28&body=438)
+- JETTV91-232 - тяга задняя поперечная регулируемая, рычаг в сборе с сайлентблоком и шаровой [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/tyaga_zadnyaya_poperechnaya_reguliruemaya_rychag_v_sbore_s_saylentblokom_i_sharovoy_jetv91-232_6285074492)
 - кастом рычаги схождения (зад) [drive2.ru/…](https://drive2.ru/l/452176082141970512/)
 - и еще раз про кастомные рычаги схождения без нарезания резьбы(!) лучше так, а то обломить может - [drive2.ru/…](https://drive2.ru/l/501173069054738686/)
 - наконечники от bB, AE100 etc (45046-19175 / CET-80 / CET-59 ) - регулируемые задние рычаги - [vk.com/…](https://vk.com/wall-31295460_513814) && [drive2.ru/…](https://drive2.ru/l/471206979151332067/) (можно такое крепление реализовать [drive2.ru/…](https://drive2.ru/l/7320298/))
