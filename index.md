@@ -844,6 +844,7 @@
 
 **фары**
 - светодиодные h4 (3к) [drive2.ru/…](https://drive2.ru/l/488621044312047715/)
+- новая планка под фары Mark 2 рест (GX81) [vk.com/…](https://vk.com/market/product/planka-perednikh-far-mark2-gx81-jzx81-222538564-12419461)
 
 **габариты**
 - подсветка габаритов на дорест при вкл поворотников [vk.com/…](https://vk.com/wall-31295460_555096)
