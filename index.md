@@ -1216,6 +1216,7 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 # Разное
 - петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
 - петли дверные - ремкомплект от хонды [ajs.su/...](https://ajs.su/petli-dvernye-napravlyayushchie-honda-88-02/)  &&  [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://drive2.ru/l/525533573801837393/)
+- втулка дверных петель - Honda Civic Accord Cr-V Crx Ek Eg [ozon.ru/…](https://ozon.ru/t/rdsQ0An)
 - подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
 - подкрылки задние от нивы [vk.com/…](https://vk.com/wall-31295460_538837)
 - уплотнитель резиновый между дверей (от грязи) ( лексус 570ршт 67896-60030 Правый 67895-60030 Левый) - [drive2.ru/…](https://drive2.ru/l/469804552070103233/) && [drive2.ru/…](https://drive2.ru/l/4641641/) && от 570 лексуса [drive2.ru/…](https://drive2.ru/l/471703408651273834/) && установка [drive2.ru/…](https://drive2.ru/l/472027489703559275/)
