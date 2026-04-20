@@ -889,6 +889,7 @@
 - дворники - изготовление зимней трапеции [drive2.ru/…](https://drive2.ru/l/470582456546755435/)
 - дворники размер 46 и 53 (48 54) (ставят 50 и 53)
 - дворники. ремкомплект трапеции от калины 1118-370533 (из 3х элементов. весь подходит) [vk.com/…](https://vk.com/wall-31295460_715648) && от 2110 (из 4х элементов. не хватает мелкой втулки) [drive2.ru/…](https://drive2.ru/l/486742803573899393/) && слетает\ломается втулка с моторчика, а она есть в обоих комплектах. для профилактического устранения люфтов лучше от калины - больше частей подходит
+- замена втулок трапеции дворников - ремкомплект на Toyota Cresta H80 (3 поколение 1988-1996) [drive2.ru/…](https://www.drive2.ru/l/729972642701905871/) && [ozon.ru/…](https://www.ozon.ru/product/remkomplekt-trapetsii-stekloochistitelya-toyota-cresta-h80-3-e-pokolenie-1988-1996-1643248545/) && [мастерская RF](https://www.ozon.ru/seller/masterskaya-steklochist-rf/?carmodelmatched=100535231%2C100543061%2C100536474%2C100543062&opened=carmodelmatched&vehicle=37857)
 
 ## Лобаш
 - лобовое на марк2 хардтоп 2500 кмб гласс [kmk.nnov.ru/…](http://kmk.nnov.ru/autostekla/?cat=TOYOTA&model=Mark+II) && [vk.com/…](https://vk.com/wall-31295460_535854)
