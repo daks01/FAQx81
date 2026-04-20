@@ -690,6 +690,7 @@
 - cartester8000 + ноут + переходник USB→COM [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip) && [narod.ru/…](http://toyotaobd.narod.ru/files/Chem407/CT741.zip)
 - arduino + bluetooth + android + Torque [drive2.ru/…](https://drive2.ru/l/7650414) && [drive2.ru/…](https://drive2.ru/l/476829606737871196/) -> [github.com/…](https://github.com/hyperion11/toyota-obd-1)
 - приложение для андроида + zf адаптер для obd1 за $50 (разъем DLC2)  [play.google.com/…](https://play.google.com/store/apps/details?id=zfapps.toyobd1) &&  [zf-scantools.com/…](https://zf-scantools.com/) && [jfbreton.blogspot.ru](http://jfbreton.blogspot.ru/search/label/TOYOBD1)
+- WiFi сканер Toyota OBD1 (TE2 отсутствует в подкапотном разъёме - [руководство](https://www.elm-reader.ru/filemanager/download/1555/)) [elm-reader.ru](https://www.elm-reader.ru/market/diagnostika_toyota1/toyota-obd1/)
 
 ## Концевики
 - концевики - передний 84231-12060 2шт., задний 84231-22070 2шт., винт с шайбой 90119-08683 4шт. - [d-a.d-cd.net/…](https://d-a.d-cd.net/573d84u/480.jpg)
