@@ -1076,6 +1076,28 @@
 * [Ерофеев пороги AutoPista](https://vk.com/wall-31295460_549624)
 * [Kfd пороги AutoPista](https://vk.com/wall-31295460_555890)
 
+## Коды краски и подкраска
+- Оригинальные наборы для подкраски сколов и царапин Toyota/Lexus - [drive2.ru/…](https://www.drive2.ru/b/702676716786558078/)
+- Наборы для Европы (краска + лак): PZ448-W\*\*\*0-09 (Toyota) или PZ448-W\*\*\*1-09 (Lexus), где \*\*\* - код краски
+- Наборы для Японии (чистая краска): 08866-00\*\*\*, где \*\*\* - код краски
+- Наборы для США: 00258-00\*\*\*-21, где \*\*\* - код краски
+- Наборы для Европы (без кода в номере): PW865-…
+- Коды краски для 81 кузова (JZX81, GX81):
+  + 040 Super White - 08866-00040
+  + 045 White - 08866-00045
+  + 1G0 Bluish Silver Metallic - 08866-001A0
+  + 1G2 Gray Metallic - 08866-001G2 или PW865-00100-BJ
+  + 1F7 Classic Silver Metallic - PZ448-W1F70-09 или 08866-001F7
+  + 199 Silver Metallic - PZ448-W1990-09 или 08866-00199
+  + 202 Astral Black - PZ448-W2021-09 или 08866-00202
+  + 209 Black Sand Pearl - PZ448-W2090-09 или 08866-00209
+  + 3P0 Super Red - PZ448-W3P00-09 или 08866-003P0
+  + 3R3 Red Mica - PZ448-S4T21-09 или 08866-003R3 или PZ448-W3R30-09
+  + 4T3 Bronze Mica Metallic - 08866-004T3
+  + 4V6 Beige - 08866-004V6
+  + 8P4 Dark Blue Mica - PZ448-W8P41-09 или 08866-008P4
+  + 8X7 Dark Blue Mica - 08866-008X7 или 00258-008X7-21
+
 ## Капот\двери\багажник
 * [Капот ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) 
 * [Облегченные крылья ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html)
