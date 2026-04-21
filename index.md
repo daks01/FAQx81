@@ -109,6 +109,7 @@
 - задние верхние рычаги от jzs155 [youtu.be/…](https://youtu.be/qOx2gtebzV0b) 
 - задние верхние рычаги от 90 [drive2.ru/…](https://www.drive2.ru/l/9247814/#comments)
 - задние верхние рычаги cq0322l (левый) / cq0322r (правый)
+- Taiko регулируемые рычаги задние с AJS (комплект) [ajs.su/…](https://ajs.su/category/podveska/podveska/tayko/toyota/) - верхние TSL000087, нижние TSL000086, поперечные TSL000088, продольные TSL000089
 
 ## Шаровые
 - шаровые (задние рычаги) от хайлюкса CBT63 либо оригинал либо JIKIU - JB26881 - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) && [drive2.ru/…](https://drive2.ru/l/472915620220895459/) && [vk.com/…](https://vk.com/wall-31295460_612273?reply=612322)
