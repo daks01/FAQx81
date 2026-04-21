@@ -44,6 +44,7 @@
 ## Сошки, выворот
 - кастомные сошки (не пиленые) для выворота [drive2.ru/…](https://drive2.ru/l/459659358280652514/#comments) 
 - кастомные сошки [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2420720%2Fquery)
+- сошки от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2420720)
 - сошки. Рассверлены. Не пилены. [vk.com/…](https://vk.com/wall-31295460_587333)
 - сошки для выворота от Даниила Басова [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/soshki_dlya_vyvorota_gx81_7775434932)
 - регулируемые теншены от Даниила Басова [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/tensheny_toyota_x71-x81_4223906074)
@@ -96,6 +97,8 @@
 ## Передние рычаги
 - CTR CQT-28R и CQT-28L && отзыв [vk.com/…](https://drive2.ru/l/545579045165728180/) 
 - кастомные рычаги. Егор Малахов [vk.com/…](https://vk.com/id517391829)
+- рычаги от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2994204)
+- А-образные от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_4224111)
 - Таблица по передним рычагам (номера, аналоги, совместимость) - [vk.com/…](https://vk.com/wall-31295460_709483)
 
 ## Задние рычаги
@@ -397,6 +400,7 @@
 * Тормоза от ucf30:
   + [Передние суппорта от ucf30](https://drive2.ru/l/10240581)
   + [Задняя ось, диски от GX100 + суппорта от ucf30](https://drive2.ru/l/501645859054683278/)
+  + планшайбы под UC30-тормоза от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2221827)
   + Заказать проставки под ucf20 суппорта перед:
     - [Вариант 1](https://drive2.ru/b/517440618465591499/)
 
