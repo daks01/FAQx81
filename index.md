@@ -35,7 +35,7 @@
 ## Номера расходников
 - схема подвески [перед](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.pdf){:target="_blank" rel="noopener"}<sup>🔥</sup>
 - схема подвески [зад (подрамник)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}<sup>🔥</sup>
-- схема подвески [зад (мост)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20мост.png) [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20мост.pdf){:target="_blank" rel="noopener"}
+- схема подвески [зад (подрамник)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.png) [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}
 - пост на драйве [drive2.ru/…](https://drive2.ru/l/503523000281203440/)
 - пост про заднюю подвеску [drive2.ru/…](https://www.drive2.ru/l/645497714095689134/)
 - и еще номера [forums.drom.ru/…](https://forums.drom.ru/toyota-mark-ii-chaser-cresta/t1151251615-p938.html)
@@ -1393,7 +1393,7 @@ __________________
 - Сайлент блоки задней подвески [drive2.ru/…](https://www.drive2.ru/l/5293290/)  
 - Отрицательный развал передней оси — изготовление проставок [drive2.ru/…](https://www.drive2.ru/c/2087180/)  
 - Заменители полиуретановые в задней подвеске [drive2.ru/…](https://www.drive2.ru/c/2122055/)  
-- Свап заднего подрамника вместо моста ч.1 [drive2.ru/…](https://www.drive2.ru/l/4407797/) и - часть 2 [drive2.ru/…](https://www.drive2.ru/l/4407916/)  
+- Свап заднего моста вместо подрамника ч.1 [drive2.ru/…](https://www.drive2.ru/l/4407797/) и - часть 2 [drive2.ru/…](https://www.drive2.ru/l/4407916/)  
 - Установка рулевой рейки jzx100 в кузов jzx81 [drive2.ru/…](https://www.drive2.ru/c/487010259777356344/)
 
 ## Электрика
