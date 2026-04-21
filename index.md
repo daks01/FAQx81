@@ -44,6 +44,9 @@
 - кастомные сошки (не пиленые) для выворота [drive2.ru/…](https://drive2.ru/l/459659358280652514/#comments) 
 - кастомные сошки [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2420720%2Fquery)
 - сошки. Рассверлены. Не пилены. [vk.com/…](https://vk.com/wall-31295460_587333)
+- сошки для выворота от Даниила Басова [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/soshki_dlya_vyvorota_gx81_7775434932)
+- регулируемые теншены от Даниила Басова [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/tensheny_toyota_x71-x81_4223906074)
+- кастомная передняя подвеска от Даниила Басова (сошки, теншены, передние регуляторы) [avito.ru/…](https://www.avito.ru/brands/i152735874/items/all)
 - выворот на 81 (Николай Петухов) (регулируемые теншены, укороченные сошки, задние регулируемые тяги) 9к [vk.com/…](https://vk.com/wall-31295460_523774) && 6к [vk.com/…](https://vk.com/wall-31295460_454538) && задняя регулируемая подвеска 10к [vk.com/…](https://vk.com/wall-31295460_598396)
 - переход на сливоподвеску (дешман и мажор варианты) [vk.com/…](https://vk.com/wall-31295460_440952?reply=440955)
 - выворот еще [vk.com/…](https://vk.com/wall-31295460_440726?reply=440779) и [vk.com/…](https://vk.com/wall-31295460_632900)
@@ -57,7 +60,7 @@
 - если хочется доступный полик во всю подвеску, то можно вытачить обоймы-переходники под тазополик из любого магазина (можно их вообще наглухо приварить)
 
 ## Плавающий
-- плавающий сайлентблок (42210-14010) (2,3к) **от Супры A70 через втулки** - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) Втулки сделает токарь, чертежи по ссылке (нужна только внешняя обойма). [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?p=516924#post516924) (похожая тема на 100 кузове [drive2.ru/…](https://drive2.ru/l/7955198)) && [drive2.ru/…](https://drive2.ru/l/471492302418739452/) && похожая тема для других тойот [drive2.ru/…](https://drive2.ru/l/5326144/) && нам надо только внешнюю(!) обойму && (применяемость: Toyota Camry Gracia, SXV25W, MCV25W, SXV25, MCV25, Toyota Camry, SV25, SV35, Toyota Mark II Wagon Qualis, SXV25W, MCV25W, SXV25, MCV25, Toyota Soarer, GZ20, MZ21, MZ20, Toyota Supra, GA70, GA70H, JZA70, MA70, Toyota Vista, SV25, SV35)
+- плавающий сайлентблок (42210-14010) (2,3к) **от Супры A70 через втулки** - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) Втулки сделает токарь, чертежи по ссылке. На 81 кузов нужна **только внешняя обойма** с внутренним 36 и внешним 38мм! [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?p=516924#post516924) (похожая тема на 100 кузове [drive2.ru/…](https://drive2.ru/l/7955198)) && [drive2.ru/…](https://drive2.ru/l/471492302418739452/) && похожая тема для других тойот [drive2.ru/…](https://drive2.ru/l/5326144/) && нам надо только внешнюю(!) обойму [avito.ru/…](https://www.avito.ru/surgut/zapchasti_i_aksessuary/plavayuschie_sb_jzx90_jzx100_x110_altezza_pod_supra_2982161395) && (применяемость: Toyota Camry Gracia, SXV25W, MCV25W, SXV25, MCV25, Toyota Camry, SV25, SV35, Toyota Mark II Wagon Qualis, SXV25W, MCV25W, SXV25, MCV25, Toyota Soarer, GZ20, MZ21, MZ20, Toyota Supra, GA70, GA70H, JZA70, MA70, Toyota Vista, SV25, SV35)
 - плавающий от 100(рест) такойже как наш [drive2.ru/…](https://drive2.ru/l/8356417/?page=0#a147701305) (размеры 38x48.5x14.3) (oem: 42304-30040, 42305-30040, 42304-30050, 42305-22021, 42304-22031 - часть под 12) 100% подходят:  **TAB 168Z** && **JIKIU BH21195,** BH21195B
 - плавающие сайленты одинаковые для 81 и 100(рест) кузовов ==> (наружний диаметр - 38 мм, внутренний диаметр - 14.3 мм, длина - 48.5 мм) ==> дубли: ASVA - TAB-168 (Tab-021z втулка на 14! Часто на 12) && HANSE - HR822168 && Hanse HR822167 && && RBI - T25GX90B (big) - [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?t=86764&page=1#post2041677)
 - также можно через гильзу поставить и заменители для 42210-14010 (хз зачем) типа Jikiu BH21128 (хз), Jikiu BH21129 (36.15x49.9x14.2), Hanse HR822165, TAB002Z (36x49x14)
@@ -96,6 +99,7 @@
 - переделка под рулевые наконечники (шаг резьбы 14*1,5 + наконечники от короллы CET-80 / CET-59) [vk.com/…](https://vk.com/wall-31295460_548677) && НО есть и противники нарезания резьбы - [vk.com/…](https://vk.com/wall-31295460_609732?reply=609743)
 - все варианты для ответа в vk - [vk.com/…](https://vk.com/wall-31295460_609732?reply=609761)
 - задние рычаги. заменитель 1.2к R8 (китай) 48710-22240 [www.r8-parts.ru/…](http://www.r8-parts.ru/ru/catalog/filter.html?brandId=1&modelId=28&body=438)
+- JETT V91-232 - тяга задняя поперечная регулируемая, рычаг в сборе с сайлентблоком и шаровой [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/tyaga_zadnyaya_poperechnaya_reguliruemaya_rychag_v_sbore_s_saylentblokom_i_sharovoy_jetv91-232_6285074492)
 - кастом рычаги схождения (зад) [drive2.ru/…](https://drive2.ru/l/452176082141970512/)
 - и еще раз про кастомные рычаги схождения без нарезания резьбы(!) лучше так, а то обломить может - [drive2.ru/…](https://drive2.ru/l/501173069054738686/)
 - наконечники от bB, AE100 etc (45046-19175 / CET-80 / CET-59 ) - регулируемые задние рычаги - [vk.com/…](https://vk.com/wall-31295460_513814) && [drive2.ru/…](https://drive2.ru/l/471206979151332067/) (можно такое крепление реализовать [drive2.ru/…](https://drive2.ru/l/7320298/))
@@ -104,6 +108,7 @@
 - тоже комплект от Малахова [vk.com/…](https://vk.com/wall-31295460_732700)
 - задние верхние рычаги от jzs155 [youtu.be/…](https://youtu.be/qOx2gtebzV0b) 
 - задние верхние рычаги от 90 [drive2.ru/…](https://www.drive2.ru/l/9247814/#comments)
+- задние верхние рычаги cq0322l (левый) / cq0322r (правый)
 
 ## Шаровые
 - шаровые (задние рычаги) от хайлюкса CBT63 либо оригинал либо JIKIU - JB26881 - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) && [drive2.ru/…](https://drive2.ru/l/472915620220895459/) && [vk.com/…](https://vk.com/wall-31295460_612273?reply=612322)
@@ -280,6 +285,7 @@
 - опоры передние fdmetalwork [vk.com/…](https://vk.com/wall-139119461_286)
 
 ## Пружины
+- пружины с занижением QUANTUM_JZX81-F (перед) / QUANTUM_JZX81-R (зад)
 - пружины AJS (6.5к) [ajs.su/…](http://ajs.su/search/?query=jzx81)
 - отзыв на пружины AJS - [drive2.ru/…](https://drive2.ru/l/517151172029579531/)
 - пружины TEIN S. TECH SOFT F3.4k R3.8k F-35mm R-37mm. ОЕМ от Tein S1T00-01034 FRONT и S1T01-01038 REAR это Мягкие. Бывают еще средние TEIN S. TECH MEDIUM F4.5k R5.1k ОЕМ от Tein S2T00-01045 и S2T01-01051
@@ -322,6 +328,7 @@
 * [Новый поршень заднего суппорта ](https://www.drive2.ru/l/614835633331907336/)
 * [Манжета в рабочий тормозной цилиндр от москвичa 412](https://www.drive2.ru/l/503601890240496465/)
 * [Тормозные шланги на Celsior суппорты](https://www.drive2.ru/l/682447352102918539/) BH1101 и BH004
+* Передний тормозной диск jzx81 → G-Brake GR02190
 
 ## ГТЦ
 
@@ -451,6 +458,7 @@
 
 ## Подушки\шайбы редуктора
 - подушки редуктора 41651-22030 и 41651-22010 (1.5к) - [vk.com/…](https://vk.com/wall-31295460_558664)
+- аналог Perfect TO-66-GX80RD
 - подходит подушка переднего нижнего рычага форд 1035929 (200р) [vk.com/…](https://vk.com/wall-31295460_687687)
 - шайбы в подрамник 3к - [vk.com/…](https://vk.com/wall-31295460_595542)
 - из танковой резины точат [vk.com/…](https://vk.com/wall-31295460_630678)
@@ -628,6 +636,7 @@
 
 ## Воздушный фильтр на jz
 - фильтр воздушный OEM 17801-46040, V91120009, заменители Vic A-175, Union А-181, JSAsakashi A175, Nitto 4TP1045, Micro WA1387, Micro NWA7
+- SAT ST-39-0129 (4к) - отзывы mixed: кто-то хвалит, кто-то жалуется 
 - корпус воздушного фильтра от 90'ка на jz-мотор - [vk.com/…](https://vk.com/wall-31295460_602641?reply=602713)
 
 ## Фильтр ионизатора
@@ -664,7 +673,7 @@
 
 ## Фильтр топливный тонкой очистки на jz
 - KL203 по резьбе подходит [vk.com/…](https://vk.com/wall-31295460_593559) && кастомное крепение [vk.com/…](https://vk.com/wall-31295460_741127)
-
+- 3d. крепления топливных трубок под днищем [vk.com/…](https://vk.com/wall-31295460_816663)
 
 
 # Электрика
@@ -685,6 +694,7 @@
 - cartester8000 + ноут + переходник USB→COM [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip) && [narod.ru/…](http://toyotaobd.narod.ru/files/Chem407/CT741.zip)
 - arduino + bluetooth + android + Torque [drive2.ru/…](https://drive2.ru/l/7650414) && [drive2.ru/…](https://drive2.ru/l/476829606737871196/) -> [github.com/…](https://github.com/hyperion11/toyota-obd-1)
 - приложение для андроида + zf адаптер для obd1 за $50 (разъем DLC2)  [play.google.com/…](https://play.google.com/store/apps/details?id=zfapps.toyobd1) &&  [zf-scantools.com/…](https://zf-scantools.com/) && [jfbreton.blogspot.ru](http://jfbreton.blogspot.ru/search/label/TOYOBD1)
+- WiFi сканер Toyota OBD1 (TE2 отсутствует в подкапотном разъёме - [руководство](https://www.elm-reader.ru/filemanager/download/1555/)) [elm-reader.ru](https://www.elm-reader.ru/market/diagnostika_toyota1/toyota-obd1/)
 
 ## Концевики
 - концевики - передний 84231-12060 2шт., задний 84231-22070 2шт., винт с шайбой 90119-08683 4шт. - [d-a.d-cd.net/…](https://d-a.d-cd.net/573d84u/480.jpg)
@@ -695,6 +705,7 @@
 - стекла не поднимаются - [vk.com/…](https://vk.com/wall-31295460_532597)
 - люк не закрывается -  [vk.com/…](https://vk.com/wall-31295460_593175)
 - схема предохранителей - [vk.com/…](https://vk.com/wall-31295460_585585)
+- интерактивная схема предохранителей - [startmycar.com/…](https://www.startmycar.com/toyota/cressida/info/fusebox/1996)
 - замена бензонасоса - [drive2.ru/…](https://drive2.ru/l/517298781465608267/)
 - насос омывателя от газель бизнес 270р + от авео + от  лансера 9 [m.vk.com/…](https://m.vk.com/wall-31295460_457282?post_add#post_add)
 - насос стеклоомывателя 250р 300634755 (дубдь на 85310-22150) + прокладка в бачек 80р 90099-32089 [drive2.ru/…](https://drive2.ru/l/246526/)
@@ -846,11 +857,13 @@
 
 **стопы**
 - как снять задние фонари [drive2.ru/…](https://drive2.ru/l/561743790239383789/)
+- восстановление вставки фонарей (полировка) [drive2.ru/…](https://www.drive2.ru/l/721889308092411483/)
 - клипсы для крепления стопов [drive2.ru/…](https://drive2.ru/l/4062246863888635388/)
 - переделка задних фонарей под светодиоды. 10к. [vk.com/…](https://vk.com/wall-31295460_526995)
 - переделка задних фонарей в белые\черные - [drive2.ru/…](https://drive2.ru/l/5097876/) && [tourerv.ru/…](http://tourerv.ru/forum/showpost.php?p=2234912&postcount=47)
 - артикулы цоколей в заднюю РЕСТ оптику: C-7443 (три провода), С-7440 (два провода) [vk.com/…](https://vk.com/wall-31295460_763250?hash=3b38352b43a10f8fe9)
 - клипсы задних фонарей дореста  [drive2.ru/…](https://www.drive2.ru/l/640530120561399214/)
+- крепления заднего фонаря **90189-05069** (клипсы крепления заднего фонаря Camry 91-) [drive2.ru/…](https://www.drive2.ru/l/706681138134911918/)
 - патрон лампы стопа bay15d [drive2.ru/…](https://www.drive2.ru/l/633467132742468962/)
 
 ## Салон
@@ -889,6 +902,7 @@
 - дворники - изготовление зимней трапеции [drive2.ru/…](https://drive2.ru/l/470582456546755435/)
 - дворники размер 46 и 53 (48 54) (ставят 50 и 53)
 - дворники. ремкомплект трапеции от калины 1118-370533 (из 3х элементов. весь подходит) [vk.com/…](https://vk.com/wall-31295460_715648) && от 2110 (из 4х элементов. не хватает мелкой втулки) [drive2.ru/…](https://drive2.ru/l/486742803573899393/) && слетает\ломается втулка с моторчика, а она есть в обоих комплектах. для профилактического устранения люфтов лучше от калины - больше частей подходит
+- замена втулок трапеции дворников - ремкомплект на Toyota Cresta H80 (3 поколение 1988-1996) [drive2.ru/…](https://www.drive2.ru/l/729972642701905871/) && [ozon.ru/…](https://www.ozon.ru/product/remkomplekt-trapetsii-stekloochistitelya-toyota-cresta-h80-3-e-pokolenie-1988-1996-1643248545/) && [мастерская RF](https://www.ozon.ru/seller/masterskaya-steklochist-rf/?carmodelmatched=100535231%2C100543061%2C100536474%2C100543062&opened=carmodelmatched&vehicle=37857)
 
 ## Лобаш
 - лобовое на марк2 хардтоп 2500 кмб гласс [kmk.nnov.ru/…](http://kmk.nnov.ru/autostekla/?cat=TOYOTA&model=Mark+II) && [vk.com/…](https://vk.com/wall-31295460_535854)
@@ -963,6 +977,7 @@
 
 ## Разное
 
+* [Новая планка под фары Mark 2 рест](https://vk.com/market/product/planka-perednikh-far-mark2-gx81-jzx81-222538564-12419461)
 * [Кастом крепление козырька](https://drive2.ru/l/453332218618578531/) 
 * [Оригинальное крепление козырька](https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg)
 * [Крышка левого динамика](https://drive2.ru/l/9558775/)
@@ -999,6 +1014,8 @@
   + [Вариант 2](https://vk.com/feed?w=wall-31295460_507045_r507241)
 * [OBERtka крылья BigWin](https://vk.com/album-61653724_183002895)
 * [Шевченко. Передние крылья Креста сток](https://vk.com/wall-31295460_701151)
+* Шевченко. Передние крылья Креста стеклопластик (пара) ~15000р:
+  + [Покупка](https://vk.com/wall-31295460_701151)
 * Шевченко. Задние крылья Марк ХТ:
   + [Покупка](https://vk.com/wall-31295460_582264) 
   + Установка:
@@ -1066,6 +1083,9 @@
 * [Ерофеев пороги AutoPista](https://vk.com/wall-31295460_549624)
 * [Kfd пороги AutoPista](https://vk.com/wall-31295460_555890)
 
+## Коды краски и подкраска
+- Оригинальные наборы для подкраски сколов и царапин Toyota/Lexus - [drive2.ru/…](https://www.drive2.ru/b/702676716786558078/)
+
 ## Капот\двери\багажник
 * [Капот ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) 
 * [Облегченные крылья ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html)
@@ -1089,6 +1109,9 @@
 # КПП
 
 ---
+## АКПП
+* Пропала половина передач, поможет пропайка соленоидов: [Видео с описанием](https://www.youtube.com/watch?v=rvX2Rx_j1ts)
+
 ## Трос спидометра
 * Трос спидометра от хайса OEM#8371025120
 * Трос спидометра от вага TSK9TI0162
@@ -1165,11 +1188,12 @@
 - кастомные опоры для jz на gx-балку от SelfMade [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_305232618%2Fphotos-37846447) && [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_301033856%2Fphotos-37846447)
 
 **балка**
+- Балка JZX81 под рулевую рейку JZX100 [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/balka_jzx81_pod_rulevuyu_reyku_jzx100_7903446659)
 - Балка [drive2.ru/…](https://drive2.ru/c/1073452/)
 - Доработка балки [drive2.ru/…](https://drive2.ru/c/1073473/)
 - Рулевая рейка Ч.1 [drive2.ru/…](https://drive2.ru/c/1073494/)
-- Рулевая рейка Ч.2  [drive2.ru/…](https://drive2.ru/c/1073523/)
-- Рулевая рейка Ч.3  [drive2.ru/…](https://drive2.ru/c/1073538/)
+- Рулевая рейка Ч.2 [drive2.ru/…](https://drive2.ru/c/1073523/)
+- Рулевая рейка Ч.3 [drive2.ru/…](https://drive2.ru/c/1073538/)
 
 ## 2JZ-GE VVT-i
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/c/455549108938082000/) оно же [vk.com/…](https://vk.com/wall-31295460_803987)
@@ -1210,6 +1234,8 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 # Разное
 - петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
 - петли дверные - ремкомплект от хонды [ajs.su/...](https://ajs.su/petli-dvernye-napravlyayushchie-honda-88-02/)  &&  [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://drive2.ru/l/525533573801837393/)
+- втулка дверных петель - Honda Civic Accord Cr-V Crx Ek Eg [ozon.ru/…](https://ozon.ru/t/rdsQ0An)
+- ремкомплект ограничителей дверей (LE4) - 400р (Ozon) / 900р (производитель) [drive2.ru/…](https://www.drive2.ru/l/706514562123303048/) && [lefent.ru/…](https://lefent.ru/le4-01-toyota-mark-2-2-6-7-8-9-10-11)
 - подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
 - подкрылки задние от нивы [vk.com/…](https://vk.com/wall-31295460_538837)
 - уплотнитель резиновый между дверей (от грязи) ( лексус 570ршт 67896-60030 Правый 67895-60030 Левый) - [drive2.ru/…](https://drive2.ru/l/469804552070103233/) && [drive2.ru/…](https://drive2.ru/l/4641641/) && от 570 лексуса [drive2.ru/…](https://drive2.ru/l/471703408651273834/) && установка [drive2.ru/…](https://drive2.ru/l/472027489703559275/)
