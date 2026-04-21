@@ -432,6 +432,7 @@
 - кастом подушки на сайлентах -  [www.youtube.com/…](https://www.youtube.com/watch?v=042_IxlRE_Y) && [vk.com/…](https://vk.com/wall-31295460_364743) && [m.vk.com/…](https://m.vk.com/wall-31295460_456692?post_add#post_add) && [vk.com/…](https://vk.com/wall-31295460_482171) && [m.vk.com/…](https://m.vk.com/wall-139119461_97?post_add#post_add) && [vk.com/…](https://vk.com/fdmetalwork) && [vk.com/…](https://vk.com/album-139119461_241547580) &&  [vk.com/…](https://vk.com/x81squad?w=wall-31295460_405370) && [vk.com/…](https://vk.com/wall-31295460_469988)
 - колхоз на повседнев [vk.com/…](https://vk.com/wall-31295460_405370)
 - колхоз от 24-й волги 20-1001020 или от газели 3102-1001020 (ЗМЗ или с велосипедом) [drive2.ru/…](https://drive2.ru/c/2997880/)
+- кастом подушка кпп под jz - [vk.com/…](https://m.vk.com/product-162260999_4002751)
 
 ## Упоры капота
 ### болтон
@@ -1187,8 +1188,9 @@
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/l/7318037/)
 
 **лапы/опоры**
-- кастомные лапы под jz к 1g-подрамнику. fdmetalwork - [vk.com/…](https://vk.com/market-139119461) 
+- кастомные лапы под jz к 1g-подрамнику. fdmetalwork - [vk.com/…](https://vk.com/market-139119461)
 - кастомные лапы под jz от Русалеева - [vk.com/…](https://vk.com/id5300733) - [vk.com/…](https://vk.com/photo5300733_426975794) - [drive2.ru/…](https://drive2.ru/l/527539083010901977/) && [a.d-cd.net/…](https://a.d-cd.net/3f1b6bas-960.jpg)
+- кастом лапы для установки jz - [vk.com/…](https://m.vk.com/product-162260999_8586542)
 - кастомные опоры для jz на gx-балку от SelfMade [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_305232618%2Fphotos-37846447) && [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_301033856%2Fphotos-37846447)
 
 **балка**
