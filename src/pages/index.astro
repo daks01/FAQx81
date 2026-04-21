@@ -1,0 +1,77 @@
+---
+import Layout from '../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+import { marked } from 'marked';
+
+const markdown = fs.readFileSync(path.join(import.meta.dirname, '..', 'index.md'), 'utf-8');
+const content = marked.parse(markdown);
+---
+
+<Layout title="FAQ x81">
+  <div class="page-layout">
+    <aside class="page-layout__sidebar">
+      <div>
+        <div class="mobile-show" style="text-align: center;">
+          <h1>FAQ x81</h1>
+        </div>
+        <nav class="toc-menu" id="menu">
+        </nav>
+      </div>
+    </aside>
+    <main class="page-layout__content">
+      <div class="page-layout__content-inner">
+        <div style="position: relative;">
+          <div style="position: relative; z-index: 5;">
+            <div class="mobile-hide">
+              <h1>FAQ x81</h1>
+            </div>
+            <form data-search="" style="padding: 8px 0;display: flex;position: sticky;top: 0;background: #fff;width: 100%;border-bottom: 1px solid #cecece;z-index: 10;">
+              <input type="search" placeholder="Быстрый поиск" aria-label="Быстрый поиск" style="padding: 3px;">
+              <button type="submit" style="white-space: pre;">Найти</button>
+            </form>
+            <article set:html={content} />
+            <a href="#menu" class="mobile-btn mobile-btn_menu">☰</a>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+</Layout>
+
+<style is:global>
+  .page-layout {
+    display: flex;
+    min-height: 100vh;
+  }
+  .page-layout__sidebar {
+    width: 300px;
+    padding: 20px;
+    border-right: 1px solid #cecece;
+    background: #f5f5f5;
+  }
+  .page-layout__content {
+    flex: 1;
+    padding: 20px;
+  }
+  .mobile-show { display: none; }
+  .mobile-hide { display: block; }
+  .mobile-btn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  @media (max-width: 768px) {
+    .page-layout { flex-direction: column; }
+    .page-layout__sidebar { width: 100%; border-right: none; border-bottom: 1px solid #cecece; }
+    .mobile-show { display: block; }
+    .mobile-hide { display: none; }
+    .mobile-btn { display: block; }
+  }
+</style>

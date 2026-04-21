@@ -1,0 +1,19 @@
+.page-layout {
+    display: table;
+    width: 100%;
+}
+
+.page-layout__row {
+    display: table-row;
+}
+
+.page-layout__sidebar {
+    display: table-cell;
+    vertical-align: top;
+    width: 300px;
+}
+
+.page-layout__content {
+    display: table-cell;
+    vertical-align: top;
+}

@@ -35,7 +35,8 @@
 ## Номера расходников
 - схема подвески [перед](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.pdf){:target="_blank" rel="noopener"}<sup>🔥</sup>
 - схема подвески [зад (подрамник)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}<sup>🔥</sup>
-- схема подвески [зад (мост)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20мост.png) [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20мост.pdf){:target="_blank" rel="noopener"}
+- [рулевые тяги и наконечники](https://vk.com/wall-31295460_420639) - номера и аналоги в теме
+- схема подвески [зад (подрамник)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.png) [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}
 - пост на драйве [drive2.ru/…](https://drive2.ru/l/503523000281203440/)
 - пост про заднюю подвеску [drive2.ru/…](https://www.drive2.ru/l/645497714095689134/)
 - и еще номера [forums.drom.ru/…](https://forums.drom.ru/toyota-mark-ii-chaser-cresta/t1151251615-p938.html)
@@ -43,6 +44,7 @@
 ## Сошки, выворот
 - кастомные сошки (не пиленые) для выворота [drive2.ru/…](https://drive2.ru/l/459659358280652514/#comments) 
 - кастомные сошки [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2420720%2Fquery)
+- сошки от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2420720)
 - сошки. Рассверлены. Не пилены. [vk.com/…](https://vk.com/wall-31295460_587333)
 - сошки для выворота от Даниила Басова [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/soshki_dlya_vyvorota_gx81_7775434932)
 - регулируемые теншены от Даниила Басова [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/tensheny_toyota_x71-x81_4223906074)
@@ -90,10 +92,14 @@
 
 ## Линки зад
 - 48830-30010 (sub **48830-30020**) - аналоги Masuma ML9016(м12), ML9018(м10). среди их аналогов 48820-42010 (RAV4 с м12 и кучей заменителей) **CTR CLT-49**, Jikiu LS21010. У CTR есть тоже куча кроссномеров CLT-4, CLT-1, CLM-1, CLKH-1, CLM-5
+- наконечник задней тяги - [vk.com/…](https://m.vk.com/wall-31295460_770741)
 
 ## Передние рычаги
 - CTR CQT-28R и CQT-28L && отзыв [vk.com/…](https://drive2.ru/l/545579045165728180/) 
 - кастомные рычаги. Егор Малахов [vk.com/…](https://vk.com/id517391829)
+- рычаги от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2994204)
+- А-образные от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_4224111)
+- Таблица по передним рычагам (номера, аналоги, совместимость) - [vk.com/…](https://vk.com/wall-31295460_709483)
 
 ## Задние рычаги
 - переделка под рулевые наконечники (шаг резьбы 14*1,5 + наконечники от короллы CET-80 / CET-59) [vk.com/…](https://vk.com/wall-31295460_548677) && НО есть и противники нарезания резьбы - [vk.com/…](https://vk.com/wall-31295460_609732?reply=609743)
@@ -109,6 +115,7 @@
 - задние верхние рычаги от jzs155 [youtu.be/…](https://youtu.be/qOx2gtebzV0b) 
 - задние верхние рычаги от 90 [drive2.ru/…](https://www.drive2.ru/l/9247814/#comments)
 - задние верхние рычаги cq0322l (левый) / cq0322r (правый)
+- Taiko регулируемые рычаги задние с AJS (комплект) [ajs.su/…](https://ajs.su/category/podveska/podveska/tayko/toyota/) - верхние TSL000087, нижние TSL000086, поперечные TSL000088, продольные TSL000089
 
 ## Шаровые
 - шаровые (задние рычаги) от хайлюкса CBT63 либо оригинал либо JIKIU - JB26881 - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) && [drive2.ru/…](https://drive2.ru/l/472915620220895459/) && [vk.com/…](https://vk.com/wall-31295460_612273?reply=612322)
@@ -316,6 +323,8 @@
 * [Гайд по удалению штатного абс](https://drive2.ru/l/532350271016141994/)
 * [Ремкомплект суппортов gx вкруг](https://pp.vk.me/c626424/v626424077/2663c/KN1E2PLQjpo.jpg)
 * Ремкомплект заднего суппорта на овощные тормоза SAM 34040000. Комплект на 1 суппорт!
+* Монтажный комплект передних суппортов LYNXauto BC8189
+* От крузака задние колодки стреляют
 * [Ремкомплект задних суппортов](https://vk.com/wall-31295460_812482) от хендай (поршня 43мм): bc0215 и 243040
 * [Ремкомплект задних суппортов](https://vk.com/wall-31295460_812482?reply=812502) ge, gze,gte Seiken 270-40247
 * [Ремкомплект задних суппортов](https://vk.com/wall-31295460_812482) подходит от хендай, ауди, субару номера: bc0215 и 243040 (поршень 43мм)
@@ -327,6 +336,7 @@
 * [Новый поршень переднего суппорт SG500048 + токарь](https://vk.com/wall-31295460_796201), 
 * [Новый поршень заднего суппорта ](https://www.drive2.ru/l/614835633331907336/)
 * [Манжета в рабочий тормозной цилиндр от москвичa 412](https://www.drive2.ru/l/503601890240496465/)
+* [Ремкомплект рабочего цилиндра тормозного назад, барабанный тормоз](https://www.drive2.ru/l/676185358504842107/)
 * [Тормозные шланги на Celsior суппорты](https://www.drive2.ru/l/682447352102918539/) BH1101 и BH004
 * Передний тормозной диск jzx81 → G-Brake GR02190
 
@@ -390,6 +400,7 @@
 * Тормоза от ucf30:
   + [Передние суппорта от ucf30](https://drive2.ru/l/10240581)
   + [Задняя ось, диски от GX100 + суппорта от ucf30](https://drive2.ru/l/501645859054683278/)
+  + планшайбы под UC30-тормоза от ЕПБ [vk.com/…](https://vk.com/market-143577202?w=product-143577202_2221827)
   + Заказать проставки под ucf20 суппорта перед:
     - [Вариант 1](https://drive2.ru/b/517440618465591499/)
 
@@ -430,6 +441,7 @@
 - кастом подушки на сайлентах -  [www.youtube.com/…](https://www.youtube.com/watch?v=042_IxlRE_Y) && [vk.com/…](https://vk.com/wall-31295460_364743) && [m.vk.com/…](https://m.vk.com/wall-31295460_456692?post_add#post_add) && [vk.com/…](https://vk.com/wall-31295460_482171) && [m.vk.com/…](https://m.vk.com/wall-139119461_97?post_add#post_add) && [vk.com/…](https://vk.com/fdmetalwork) && [vk.com/…](https://vk.com/album-139119461_241547580) &&  [vk.com/…](https://vk.com/x81squad?w=wall-31295460_405370) && [vk.com/…](https://vk.com/wall-31295460_469988)
 - колхоз на повседнев [vk.com/…](https://vk.com/wall-31295460_405370)
 - колхоз от 24-й волги 20-1001020 или от газели 3102-1001020 (ЗМЗ или с велосипедом) [drive2.ru/…](https://drive2.ru/c/2997880/)
+- кастом подушка кпп под jz - [vk.com/…](https://m.vk.com/product-162260999_4002751)
 
 ## Упоры капота
 ### болтон
@@ -461,9 +473,9 @@
 - аналог Perfect TO-66-GX80RD
 - подходит подушка переднего нижнего рычага форд 1035929 (200р) [vk.com/…](https://vk.com/wall-31295460_687687)
 - шайбы в подрамник 3к - [vk.com/…](https://vk.com/wall-31295460_595542)
+- шайбы в подрамник из полика (fdmetalwork) [vk.com/…](https://vk.com/wall-139119461_204)
 - из танковой резины точат [vk.com/…](https://vk.com/wall-31295460_630678)
 - на 90/100 есть шайбы из полика (чем мы хуже?…) [vk.com/](https://vk.com/wall-28505109_19231)
-- шайбы полик [technicoracing.com/…](http://technicoracing.com/cs/index.php?dispatch=products.view&product_id=264)
 - шайбы полик [xcessivemanufacturing.com/…](https://xcessivemanufacturing.com/toyota-mx83-t-mx83-rsb.html)
 
 ## Подушки рулевой рейки
@@ -511,6 +523,8 @@
 * [Рулевая рейка jzx90](https://drive2.ru/l/531189186737209396/) 
 * [Рулевая рейка Altezza](https://drive2.ru/l/542632079125382016/)
 * При установке рейки от 90\100 понадобятся рулевые тяги от 110 (CTR CRT-84) либо сток 80 
+* Как НЕ менять шланги ГУР при переходе на рейку от 100 (банджо болт): перекинуть вал с шестернями в корпус от рейки 80 [drive2.ru](https://www.drive2.ru/l/674003102801594366/#a674039936441135351)
+* [Пруф установки рейки по центру](https://www.drive2.ru/l/674003102801594366/)
 
 ## Подушки рейки
 -  [Подушки рейки](#подушки-рулевой-рейки)
@@ -570,6 +584,7 @@
 - редуктор с приводами от сорая GZ20 - [drive2.ru/…](https://drive2.ru/l/463400996349935753/)
 - редуктор от 100 на одном креплении (НАЙТИ ССЫЛКУ НА drive2)
 - редуктор от 100 с пересверливанием крепления [drive2.ru/…](https://drive2.ru/l/548727496711865773/)
+- редуктор от 90 (8 дюймов) в 81 - [drive2.ru/…](https://www.drive2.ru/l/574587185563435054/) (требуется переделка крепления, задняя крышка подходит от 81)
 - номера сальников приводов и хвостовика (8") [vk.com/…](https://vk.com/wall-31295460_729709) 
 - редуктор. Расшифровка подкапотной таблички - [vk.com/…](https://vk.com/wall-31295460_636352?reply=636355)
 
@@ -600,9 +615,13 @@
 
 
 * Кран отопителя/печки:
-  + [от 90-100 кузова](https://drive2.ru/l/9808346/)
-  + SAT 87240-22370 новый
-  + SW 87240-22320 от короллы 100-110 [Как доработать](https://www.drive2.ru/l/628146870853584723/)
+   + [от 90-100 кузова](https://drive2.ru/l/9808346/)
+   + SAT 87240-22370 новый
+   + SW 87240-22320 от короллы 100-110 [Как доработать](https://www.drive2.ru/l/628146870853584723/)
+
+* Патрубки печки:
+   + [Патрубки от 08 подходят, резинки в комплект, но нужно доработать напильником](https://vk.com/wall-31295460_783147)
+   + [Патрубки от Газели](https://vk.com/wall-31295460_783147) - также подходят с доработкой
 
 
 * Ревизия печки. [Проклейка бипластом](https://vk.com/wall-31295460_629120)
@@ -694,7 +713,7 @@
 - cartester8000 + ноут + переходник USB→COM [vk.com/…](https://vk.com/wall-31295460_505699) && [drive2.ru/…](https://drive2.ru/l/9057201/) && [carina-e.ru/…](http://carina-e.ru/viewtopic.php?f=6&t=1145) && [forums.drom.ru/…](https://forums.drom.ru/toyota-ipsum-nadia-gaia-picnic-avensis-verso/t1151710941.html) как сделать кабель [primavistalab.ru/…](http://primavistalab.ru/myengine/) && качать тут: [primavistalab.ru/…](http://primavistalab.com/files/CarTester8000StableEdition.zip) && [narod.ru/…](http://toyotaobd.narod.ru/files/Chem407/CT741.zip)
 - arduino + bluetooth + android + Torque [drive2.ru/…](https://drive2.ru/l/7650414) && [drive2.ru/…](https://drive2.ru/l/476829606737871196/) -> [github.com/…](https://github.com/hyperion11/toyota-obd-1)
 - приложение для андроида + zf адаптер для obd1 за $50 (разъем DLC2)  [play.google.com/…](https://play.google.com/store/apps/details?id=zfapps.toyobd1) &&  [zf-scantools.com/…](https://zf-scantools.com/) && [jfbreton.blogspot.ru](http://jfbreton.blogspot.ru/search/label/TOYOBD1)
-- WiFi сканер Toyota OBD1 (TE2 отсутствует в подкапотном разъёме - [руководство](https://www.elm-reader.ru/filemanager/download/1555/)) [elm-reader.ru](https://www.elm-reader.ru/market/diagnostika_toyota1/toyota-obd1/)
+- WiFi сканер Toyota OBD1 (TE2 отсутствует в подкапотном разъёме - [руководство](https://www.elm-reader.ru/filemanager/download/1555/) && как подключить: [mmc-reader.ru](https://www.mmc-reader.ru/index.php/scan/skaner-toyota-obd1), отзывы: [drive2.ru/…](https://www.drive2.ru/l/630577341306776797/) && [drive2.ru/…](https://www.drive2.ru/l/626852470789783916/)) [elm-reader.ru](https://www.elm-reader.ru/market/diagnostika_toyota1/toyota-obd1/)
 
 ## Концевики
 - концевики - передний 84231-12060 2шт., задний 84231-22070 2шт., винт с шайбой 90119-08683 4шт. - [d-a.d-cd.net/…](https://d-a.d-cd.net/573d84u/480.jpg)
@@ -772,9 +791,6 @@
 
 ## Распиновка
 - распиновка - [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/56022e0698142f9e3caa97fc/5604c19bd81144afd7b060c3/a61b501b2f03452ead22c005e9555919/G8oMkRxVOmQ.jpg) && [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/5604c19bd81144afd7b060c3/934x704/0628bbc8319829bf41487a9b97d5e596/gbO-lmsE7Co.jpg)
-- распиновка магнитол тойоты - [teletehnika.info/…](http://teletehnika.info/collection-of-sockets-autoradio/136-razyomy-amagnitol-toyota.html)
-- обознаения на схемах - [teletehnika.info/…](http://teletehnika.info/collection-of-sockets-autoradio/15-razyomy-avtomagnitol-i-ix-oboznacheniya.html)
-
 ## aux
 - впайка JACK 3.5 - [vk.com/…](https://vk.com/wall-31295460_475446) && [drive2.ru/…](https://drive2.ru/l/9182208/) && [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455) && [drive2.ru/…](https://drive2.ru/l/459180246088874151/) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_483627) && [drive2.ru/…](https://drive2.ru/l/472659434011623784/)
 - пример впайки в чайник и касетник от 90
@@ -832,6 +848,7 @@
 - изготовление значка светящегося - [drive2.ru/…](https://drive2.ru/l/480091582859575670/#comments)
 - диоды плоские 8шт - [drive2.ru/…](https://drive2.ru/l/480091582859575670/) && [drive2.ru/…](https://drive2.ru/l/480092132615389486/)
 - ремонт - [drive2.ru/…](https://drive2.ru/l/515321034925146636/)
+- кастомный светящийся значок (Mark, Cresta) от Royzin04 4к [t.me/Royzin04](https://t.me/Royzin04) [drive2.ru/…](https://www.drive2.ru/l/688846234898679352)
 
 ## Маячки
 - маячки. светодиод - [drive2.ru/…](https://drive2.ru/l/475997826191458843/)
@@ -844,6 +861,8 @@
 
 **фары**
 - светодиодные h4 (3к) [drive2.ru/…](https://drive2.ru/l/488621044312047715/)
+- изготовление стекол на фары 15к (Иркутск) - [vk.com/…](https://vk.com/wall-31295460_815389)
+- переделка света под правильный наклон [drive2.ru/…](https://www.drive2.ru/l/288230376153119309/)
 
 **габариты**
 - подсветка габаритов на дорест при вкл поворотников [vk.com/…](https://vk.com/wall-31295460_555096)
@@ -876,7 +895,7 @@
 - лампа с патроном и зеленым гондоном в климат 81938-22110
 - лампа из подсветки кнопок - 84999-10860
 - лампочки в щитке приборов 99132-12034 с зелеными шляпами. + лампа в пиктограмме "ручник" 90981-11014 [g-a.d-cd.net/…](https://g-a.d-cd.net/7e14ac8s-960.jpg)
-- родные лампы климата 81938-22110. родные мини-лампочки типа TSD, с патронами, самой лампочкой и г*ндончиками от климата jzx100, которые идеально подходят везде где есть цоколь TSD в 81кузов - 90010-03003 (в приборке камри **90072-02006**) (климат, акпп, приборка) 90072-02020 (зеленый презик), 90010-01122 (желтый презик) и **Koito 1563**(x10)
+- родные лампы климата 81938-22110. родные мини-лампочки типа TSD, с патронами, самой лампочкой и г*ндончиками от климата jzx100 - в приборке камри **90072-02006** (в климат НЕ подходит!) (акпп, приборка) 90072-02020 (зеленый презик), 90010-01122 (желтый презик) и **Koito 1563**(x10)
 - лампы климата Koito E1581 патрон T4 [vk.com/…](https://vk.com/wall-31295460_663924?reply=793412)
 - лампы в приборку Koito Е1548 [vk.com/…](https://vk.com/wall-31295460_799667)
 
@@ -884,6 +903,7 @@
 - полноценный евросвет не получится [drive2.ru/…](https://drive2.ru/l/7776236#comments)
 - переходники [toyota-club.net/…](http://toyota-club.net/files/2008/08-01-10_fara-10.pdf) && [dion-club.ru/…](http://dion-club.ru/forums/index.php?showtopic=297&st=0#post-main-2113)
 - можно сделать из старых ламп сбив юбку и допилив напильником
+- сборка евросвета с номерами линз и ламп [drive2.ru/…](https://www.drive2.ru/l/288230376153119309/)
 
 
 
@@ -927,6 +947,7 @@
 * Ремкомплект задних арок 1500р  [vk.com](https://vk.com/market-87598237?w=product-87598237_2984523)
 * Ремкомплект арок [vk.com](https://vk.com/wall-31295460_674209)
 * Ремкомплект арок, порогов [drive2.ru](https://drive2.ru/l/528070147127115992/)
+* Расширение задних арок. Металл [vk.com](https://vk.com/wall-31295460_811299)
 
 
 ## Замена крыши на люкатую
@@ -1089,8 +1110,9 @@
 ## Капот\двери\багажник
 * [Капот ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) 
 * [Облегченные крылья ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html)
-* [Крышка багажника ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-toyota-mark-ii-81-81968063.html)
+* [Крышка багажника ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-dlja-toyota-mark-ii-81-81968063.html)
 * [Боди-кит стеклопластика](https://vk.com/wall-31295460_521684)
+* [Стеклопластик из Иркутска](https://vk.com/wall-31295460_815389)
 * [D-apex капот и двери](https://drive2.ru/l/9498710/)
 * [D-apex капот SelfMade (дорест)](https://vk.com/d_apex_works)
 * [Agf капот дорест Mark II HT, багажник, двери](https://vk.com/wall-31295460_376849)
@@ -1140,6 +1162,7 @@
 
 ## Общие моменты
 * [Переход на универсальную лямбду 1g мотор](https://drive2.ru/l/511498307873276477/)
+* ремкомплект помпы (водяной насос) - [drive2.ru/…](https://drive2.ru/l/288230376153119309/)
 * [Адаптеры под универсальную лямбду](https://ajs.su/search/?query=%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B5%D1%80+%D0%B4%D0%BB%D1%8F+%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8+%D0%BB%D1%8F)
 * Замена трамблера на Дпрв от 1g-gze:
     - [Вариант 1](http://oldschool.co.nz/index.php?/topic/29322-my-fancy-new-car-with-power-windows-and-a-stereo/page-6#entry1624639) 
@@ -1183,8 +1206,9 @@
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/l/7318037/)
 
 **лапы/опоры**
-- кастомные лапы под jz к 1g-подрамнику. fdmetalwork - [vk.com/…](https://vk.com/market-139119461) 
+- кастомные лапы под jz к 1g-подрамнику. fdmetalwork - [vk.com/…](https://vk.com/market-139119461)
 - кастомные лапы под jz от Русалеева - [vk.com/…](https://vk.com/id5300733) - [vk.com/…](https://vk.com/photo5300733_426975794) - [drive2.ru/…](https://drive2.ru/l/527539083010901977/) && [a.d-cd.net/…](https://a.d-cd.net/3f1b6bas-960.jpg)
+- кастом лапы для установки jz - [vk.com/…](https://m.vk.com/product-162260999_8586542)
 - кастомные опоры для jz на gx-балку от SelfMade [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_305232618%2Fphotos-37846447) && [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_301033856%2Fphotos-37846447)
 
 **балка**
@@ -1215,7 +1239,6 @@
 - по 70-м кузовам, но тоже много полезного  [vk.com/…](https://vk.com/@x71squad-faq-novichkam-i-tem-kto-propustil)
 
 ## Англоязычные сайты. Японские сервисные мануалы
-- (ВАЖНО) англо/японоязычная инфа по всем моделям и кузовам [jzxproject.com...](https://jzxproject.com/bbs/index.php?/topic/10809-toyota-x-chassis-workshop-manual-and-wiring-guide-motherload/)
 - отдельным zip-файлом:
 VOL 7 = X70-> X80 1985-1991 [s3.amazonaws.com](https://s3.amazonaws.com/jzxp/RepairManuals/VOL+7.zip)
 VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/RepairManuals/VOL+8.zip) 
@@ -1233,13 +1256,14 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 
 # Разное
 - петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
-- петли дверные - ремкомплект от хонды [ajs.su/...](https://ajs.su/petli-dvernye-napravlyayushchie-honda-88-02/)  &&  [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://drive2.ru/l/525533573801837393/)
+- петли дверные - ремкомплект от хонды [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://drive2.ru/l/525533573801837393/)
 - втулка дверных петель - Honda Civic Accord Cr-V Crx Ek Eg [ozon.ru/…](https://ozon.ru/t/rdsQ0An)
 - ремкомплект ограничителей дверей (LE4) - 400р (Ozon) / 900р (производитель) [drive2.ru/…](https://www.drive2.ru/l/706514562123303048/) && [lefent.ru/…](https://lefent.ru/le4-01-toyota-mark-2-2-6-7-8-9-10-11)
 - подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
 - подкрылки задние от нивы [vk.com/…](https://vk.com/wall-31295460_538837)
 - уплотнитель резиновый между дверей (от грязи) ( лексус 570ршт 67896-60030 Правый 67895-60030 Левый) - [drive2.ru/…](https://drive2.ru/l/469804552070103233/) && [drive2.ru/…](https://drive2.ru/l/4641641/) && от 570 лексуса [drive2.ru/…](https://drive2.ru/l/471703408651273834/) && установка [drive2.ru/…](https://drive2.ru/l/472027489703559275/)
 - уплотнитель резиновый между дверей РКИ-19 000017504293020, 00001750429302 - [drive2.ru/…](https://drive2.ru/l/4641641/) && [magazinrti66.ru/…](http://magazinrti66.ru/catalog/uplotniteli/)(Титова,19)
+- кастом-клипсы под порванные уплотнители дверей [vk.com/…](https://vk.com/wall-31295460_770741)
 - передние ветровики от альтезы gx10 - [drive2.ru/…](https://drive2.ru/l/477850503284261070/)
 - фреон 12. Аналог 406а - [vk.com/…](https://vk.com/wall-31295460_544574)
 - молдинги от 14 рест  либо от  100 [vk.com/…](https://vk.com/wall-31295460_659373)
@@ -1251,7 +1275,7 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 - чтобы кулиса не болталась. Чертеж - [vk.com/…](https://vk.com/wall-31295460_547724) && [drive2.ru/…](https://drive2.ru/l/489983614096769658/)
 - кулиса [vk.com/…](https://vk.com/wall-31295460_592934)
 - ручка двери. Ремонт [vk.com/…](https://vk.com/wall-31295460_595458)
-- клапан кондиционера - частая причина ухода фреона из системы - [vk.com/…](https://vk.com/wall-31295460_638976)
+- клапан кондиционера от 90 + сварка\болгарка - [vk.com/…](https://vk.com/wall-31295460_813166) - частая причина ухода фреона из системы - [vk.com/…](https://vk.com/wall-31295460_638976) - травит мембрана - [vk.com/…](https://vk.com/wall-31295460_798704)
 - как выбрать аккум (кальуевый, 500-600А, производство до 6мес, гарантия 2-4года) - [www.youtube.com/…](https://www.youtube.com/watch?v=ViuqEJ3nC3I)
 - крышка пассажирского динамика своими кривыми руками - [a.d-cd.net/…](https://a.d-cd.net/x0AAAgDXMOA-960.jpg) &&[drive2.ru/…](https://drive2.ru/l/498695594479452280/)
 - крышка пассажирского динамика из говна и палок - [vk.com/…](https://vk.com/wall-31295460_614538)
@@ -1266,7 +1290,7 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 - переделка гетраг для jz и uz (колокол, что комплект) (8-45) [vk.com/…](https://vk.com/jz_uz_bmw)
 - сварит все что надо для свапа (лапы, рычаги… что хошь) [vk.com/…](https://vk.com/id5300733)
 - Harvest - [vk.com/…](https://vk.com/harvesttrans)
-- писалки веерные (белые) от 30 виндома 85381-33060-A0 WHITE PEARL  + обратный клапан к ним 85321-26020 или от камри 85381-aa042 [drive2.ru/…](https://drive2.ru/l/579853021626764391/) && другие цвета [drive2.ru/…](https://www.drive2.ru/l/517688833215562630/)
+- писалки веерные (белые) от 30 виндома 85381-33060-A0 WHITE PEARL + обратный клапан к ним 85321-26020 или от камри 85381-aa042 [drive2.ru/…](https://drive2.ru/l/579853021626764391/) && другие цвета [drive2.ru/…](https://www.drive2.ru/l/517688833215562630/) ||| дешман 5207300K00 (слава грейтволлу)
 - держатель крышки бензобака 77399-28010 && 77399-12010 && &&
 - крепление для крышки бензобака на люючке 17255-jk000
 - заглушки на болты сидений 96236550
@@ -1311,6 +1335,9 @@ __________________
 - Чертежи подушек крепления заднего подрамника и крепления редуктора — x8x[drive2.ru/…](https://www.drive2.ru/c/927818/)  
 - Чертёж шайб в задний подрамник jzx81 gx81-Дополненная версия[drive2.ru/…](https://www.drive2.ru/c/2800212/)  
 - Чертеж спейсера Toyota Chaser/Cresta/Mark II X80/90[drive2.ru/…](https://www.drive2.ru/c/2722116/)
+
+## Постройка турбы из атмомоторов
+- Группа ВКонтакте [vk.com/…](https://m.vk.com/club225915469)
 
 ## Свап ДВС
 
@@ -1375,7 +1402,7 @@ __________________
 - Сайлент блоки задней подвески [drive2.ru/…](https://www.drive2.ru/l/5293290/)  
 - Отрицательный развал передней оси — изготовление проставок [drive2.ru/…](https://www.drive2.ru/c/2087180/)  
 - Заменители полиуретановые в задней подвеске [drive2.ru/…](https://www.drive2.ru/c/2122055/)  
-- Свап заднего подрамника вместо моста ч.1 [drive2.ru/…](https://www.drive2.ru/l/4407797/) и - часть 2 [drive2.ru/…](https://www.drive2.ru/l/4407916/)  
+- Свап заднего моста вместо подрамника ч.1 [drive2.ru/…](https://www.drive2.ru/l/4407797/) и - часть 2 [drive2.ru/…](https://www.drive2.ru/l/4407916/)  
 - Установка рулевой рейки jzx100 в кузов jzx81 [drive2.ru/…](https://www.drive2.ru/c/487010259777356344/)
 
 ## Электрика
@@ -1404,6 +1431,7 @@ __________________
 - Подключение Тахометра после Swap 2JZ GE VVTI — x8x [drive2.ru/…](https://www.drive2.ru/c/455549108938082000/)  
 - Рестаил габариты с функцией освещение поворота — x8x [drive2.ru/…](https://www.drive2.ru/c/482496214789521831/)  
 - Установка подсветки поворота по штатному — x8x [drive2.ru/…](https://www.drive2.ru/c/484486880591609892/)
+- Датчик уровня топлива на электроприборке, переход на аварийный датчик [drive2.ru/…](https://www.drive2.ru/l/692658241712175803/)
 
 ## Стайлинг
 - Обвес jzx81 BigWin TypeSP — x8x [drive2.ru/…](https://www.drive2.ru/cars/toyota/mark_ii/mark_ii_80/selfmade/journal/288230376153069509/)  
@@ -1444,6 +1472,40 @@ __________________
 - Ремонт стартера 1G-FE [drive2.ru/…](https://www.drive2.ru/c/1706026/)  
 - Manuals trasmission [drive2.ru/…](https://drive.google.com/file/d/0B_D8ErMnvSzidDhmTjhwV09wcEU/view?usp=sharing)  
 - Поднятие давление в акпп 340 [drive2.ru/…](https://www.drive2.ru/c/1758322/)  
+## Клипсы Masuma (Mark II, Chaser, Cresta X80)
+- **KJ-036** — Крепление уплотнителя капота (OEM 90467-08011)
+- **KJ-038** — Крепление решётки радиатора верхнее (Тип 2) (OEM 90467-12040)
+- **KJ-049** — Крепление защиты под крылом к крылу (OEM 53879-22030)
+- **KJ-101** — Крепление брызговика заднего (1 шт.) (OEM 90189-06123)
+- **KJ-301** — Крепление решётки радиатора центральное (OEM 90467-12048)
+- **KJ-303** — Louver, cowl top ventilator, center No-1 (OEM 90189-04132)
+- **KJ-310** — Крепление молдинга заднего крыла (1 шт.) (OEM 90189-06006)
+- **KJ-335** — Крепление уплотнительной резинки капота у стекла (OEM 90467-08101)
+- **KJ-344** — Крепление накладки багажника (OEM 67921-95501), подходит и для накладок порогов в салоне
+- **KJ-357** — Крепление лючка датчика уровня топлива (OEM 90189-04002)
+- **KJ-360** — Крепление защиты под крылом к кузову (OEM 90189-06150)
+- **KJ-370** — Крепление шумотеплоизоляции капота (OEM 90467-09006)
+- **KJ-371** — Крепление брызговиков передних (OEM 90189-06005)
+- **KJ-379** — Крепление бампера заднего (OEM 90189-05073)
+- **KJ-401** — Крепление защиты бампера (OEM 90189-06027)
+- **KJ-418** — Крепление молдингов и фар (OEM 90189-04069)
+- **KJ-454** — Крепление брызговика заднего (2 шт) (OEM 90189-06122)
+- **KJ-486** — Крепление рамки между стоп-сигналами (OEM 62955-20040)
+- **KJ-501** — Крепление обшивки двери (OEM 67771-12040)
+- **KJ-527** — Крепление бокового молдинга порога (OEM 90189-05012)
+- **KJ-1047** — Protector, cowl top ventilator (OEM 90467-07072-22)
+- **KJ-1174** — Крепление накладки порога задней (OEM 67921-22020)
+- **KJ-1271** — Крепление нижних пластиковых держателей заднего бампера (OEM 90467-09029)
+- **KJ-1302** — Крепление погодного уплотнителя двери (OEM 67869-30020)
+- **KJ-1373** — Крепление погодного уплотнителя двери (OEM 67869-22010)
+- **KJ-1375** — Крепление ковролина под задним сидением (OEM 90467-11025)
+- **KJ-1447** — Крепление решётки радиатора нижнее (OEM 90467-17008)
+- **KJ-2186** — Вставка переднего молдинга (OEM 90189-04059)
+- **KJ-2234** — Крепление переднего бампера (OEM 90467-07030-01)
+- **KJ-1097** — Крепление задней обшивки багажника (OEM 90467-05020-01)
+- **KJ-1272** — Крепление боковой обшивки багажника (OEM 90467-07042-B2)
+- **KJ-364** — Крепление обшивки крышки багажника (OEM 90467-07059-B1)
+
 - Артикулы клипс японских авто [drive2.ru/…](https://www.drive2.ru/l/692301175311043486/)  
 - Артикулы клипс японских авто [masuma.ru](https://masuma.ru/podbor-po-avto/toyota-mark-ii-gx81-1458/klipsy-na-iaponskie-modeli/?ysclid=m64y9x6ad9252548078&page=3)  
 - Промывка форсунок своими силами [drive2.ru/…](https://www.drive2.ru/c/2450202/)  
