@@ -60,7 +60,7 @@
 - если хочется доступный полик во всю подвеску, то можно вытачить обоймы-переходники под тазополик из любого магазина (можно их вообще наглухо приварить)
 
 ## Плавающий
-- плавающий сайлентблок (42210-14010) (2,3к) **от Супры A70 через втулки** - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) Втулки сделает токарь, чертежи по ссылке. На 81 кузов нужна **только внешняя обойма** с внутренним 36 и внешним 38мм! [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?p=516924#post516924) (похожая тема на 100 кузове [drive2.ru/…](https://drive2.ru/l/7955198)) && [drive2.ru/…](https://drive2.ru/l/471492302418739452/) && похожая тема для других тойот [drive2.ru/…](https://drive2.ru/l/5326144/) && нам надо только внешнюю(!) обойму && (применяемость: Toyota Camry Gracia, SXV25W, MCV25W, SXV25, MCV25, Toyota Camry, SV25, SV35, Toyota Mark II Wagon Qualis, SXV25W, MCV25W, SXV25, MCV25, Toyota Soarer, GZ20, MZ21, MZ20, Toyota Supra, GA70, GA70H, JZA70, MA70, Toyota Vista, SV25, SV35)
+- плавающий сайлентблок (42210-14010) (2,3к) **от Супры A70 через втулки** - [drive2.ru/…](https://drive2.ru/l/460341605245648992/) Втулки сделает токарь, чертежи по ссылке. На 81 кузов нужна **только внешняя обойма** с внутренним 36 и внешним 38мм! [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?p=516924#post516924) (похожая тема на 100 кузове [drive2.ru/…](https://drive2.ru/l/7955198)) && [drive2.ru/…](https://drive2.ru/l/471492302418739452/) && похожая тема для других тойот [drive2.ru/…](https://drive2.ru/l/5326144/) && нам надо только внешнюю(!) обойму [avito.ru/…](https://www.avito.ru/surgut/zapchasti_i_aksessuary/plavayuschie_sb_jzx90_jzx100_x110_altezza_pod_supra_2982161395) && (применяемость: Toyota Camry Gracia, SXV25W, MCV25W, SXV25, MCV25, Toyota Camry, SV25, SV35, Toyota Mark II Wagon Qualis, SXV25W, MCV25W, SXV25, MCV25, Toyota Soarer, GZ20, MZ21, MZ20, Toyota Supra, GA70, GA70H, JZA70, MA70, Toyota Vista, SV25, SV35)
 - плавающий от 100(рест) такойже как наш [drive2.ru/…](https://drive2.ru/l/8356417/?page=0#a147701305) (размеры 38x48.5x14.3) (oem: 42304-30040, 42305-30040, 42304-30050, 42305-22021, 42304-22031 - часть под 12) 100% подходят:  **TAB 168Z** && **JIKIU BH21195,** BH21195B
 - плавающие сайленты одинаковые для 81 и 100(рест) кузовов ==> (наружний диаметр - 38 мм, внутренний диаметр - 14.3 мм, длина - 48.5 мм) ==> дубли: ASVA - TAB-168 (Tab-021z втулка на 14! Часто на 12) && HANSE - HR822168 && Hanse HR822167 && && RBI - T25GX90B (big) - [tourerv.ru/…](http://tourerv.ru/forum/showthread.php?t=86764&page=1#post2041677)
 - также можно через гильзу поставить и заменители для 42210-14010 (хз зачем) типа Jikiu BH21128 (хз), Jikiu BH21129 (36.15x49.9x14.2), Hanse HR822165, TAB002Z (36x49x14)
@@ -99,7 +99,7 @@
 - переделка под рулевые наконечники (шаг резьбы 14*1,5 + наконечники от короллы CET-80 / CET-59) [vk.com/…](https://vk.com/wall-31295460_548677) && НО есть и противники нарезания резьбы - [vk.com/…](https://vk.com/wall-31295460_609732?reply=609743)
 - все варианты для ответа в vk - [vk.com/…](https://vk.com/wall-31295460_609732?reply=609761)
 - задние рычаги. заменитель 1.2к R8 (китай) 48710-22240 [www.r8-parts.ru/…](http://www.r8-parts.ru/ru/catalog/filter.html?brandId=1&modelId=28&body=438)
-- JETTV91-232 - тяга задняя поперечная регулируемая, рычаг в сборе с сайлентблоком и шаровой [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/tyaga_zadnyaya_poperechnaya_reguliruemaya_rychag_v_sbore_s_saylentblokom_i_sharovoy_jetv91-232_6285074492)
+- JETT V91-232 - тяга задняя поперечная регулируемая, рычаг в сборе с сайлентблоком и шаровой [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/tyaga_zadnyaya_poperechnaya_reguliruemaya_rychag_v_sbore_s_saylentblokom_i_sharovoy_jetv91-232_6285074492)
 - кастом рычаги схождения (зад) [drive2.ru/…](https://drive2.ru/l/452176082141970512/)
 - и еще раз про кастомные рычаги схождения без нарезания резьбы(!) лучше так, а то обломить может - [drive2.ru/…](https://drive2.ru/l/501173069054738686/)
 - наконечники от bB, AE100 etc (45046-19175 / CET-80 / CET-59 ) - регулируемые задние рычаги - [vk.com/…](https://vk.com/wall-31295460_513814) && [drive2.ru/…](https://drive2.ru/l/471206979151332067/) (можно такое крепление реализовать [drive2.ru/…](https://drive2.ru/l/7320298/))
@@ -636,7 +636,7 @@
 
 ## Воздушный фильтр на jz
 - фильтр воздушный OEM 17801-46040, V91120009, заменители Vic A-175, Union А-181, JSAsakashi A175, Nitto 4TP1045, Micro WA1387, Micro NWA7
-- SAT ST-39-0129 (4к) - отзывы mixed: кто-то хвалит, кто-то жалуется ([отзывы](https://www.drive2.ru/users/vk31295460/feedback/))
+- SAT ST-39-0129 (4к) - отзывы mixed: кто-то хвалит, кто-то жалуется 
 - корпус воздушного фильтра от 90'ка на jz-мотор - [vk.com/…](https://vk.com/wall-31295460_602641?reply=602713)
 
 ## Фильтр ионизатора
@@ -844,7 +844,6 @@
 
 **фары**
 - светодиодные h4 (3к) [drive2.ru/…](https://drive2.ru/l/488621044312047715/)
-- новая планка под фары Mark 2 рест (GX81) [vk.com/…](https://vk.com/market/product/planka-perednikh-far-mark2-gx81-jzx81-222538564-12419461)
 
 **габариты**
 - подсветка габаритов на дорест при вкл поворотников [vk.com/…](https://vk.com/wall-31295460_555096)
@@ -978,6 +977,7 @@
 
 ## Разное
 
+* [Новая планка под фары Mark 2 рест](https://vk.com/market/product/planka-perednikh-far-mark2-gx81-jzx81-222538564-12419461)
 * [Кастом крепление козырька](https://drive2.ru/l/453332218618578531/) 
 * [Оригинальное крепление козырька](https://pp.userapi.com/c626217/v626217783/6a967/2mXA8fE1B30.jpg)
 * [Крышка левого динамика](https://drive2.ru/l/9558775/)
@@ -1085,25 +1085,6 @@
 
 ## Коды краски и подкраска
 - Оригинальные наборы для подкраски сколов и царапин Toyota/Lexus - [drive2.ru/…](https://www.drive2.ru/b/702676716786558078/)
-- Наборы для Европы (краска + лак): PZ448-W\*\*\*0-09 (Toyota) или PZ448-W\*\*\*1-09 (Lexus), где \*\*\* - код краски
-- Наборы для Японии (чистая краска): 08866-00\*\*\*, где \*\*\* - код краски
-- Наборы для США: 00258-00\*\*\*-21, где \*\*\* - код краски
-- Наборы для Европы (без кода в номере): PW865-…
-- Коды краски для 81 кузова (JZX81, GX81):
-  + 040 Super White - 08866-00040
-  + 045 White - 08866-00045
-  + 1G0 Bluish Silver Metallic - 08866-001A0
-  + 1G2 Gray Metallic - 08866-001G2 или PW865-00100-BJ
-  + 1F7 Classic Silver Metallic - PZ448-W1F70-09 или 08866-001F7
-  + 199 Silver Metallic - PZ448-W1990-09 или 08866-00199
-  + 202 Astral Black - PZ448-W2021-09 или 08866-00202
-  + 209 Black Sand Pearl - PZ448-W2090-09 или 08866-00209
-  + 3P0 Super Red - PZ448-W3P00-09 или 08866-003P0
-  + 3R3 Red Mica - PZ448-S4T21-09 или 08866-003R3 или PZ448-W3R30-09
-  + 4T3 Bronze Mica Metallic - 08866-004T3
-  + 4V6 Beige - 08866-004V6
-  + 8P4 Dark Blue Mica - PZ448-W8P41-09 или 08866-008P4
-  + 8X7 Dark Blue Mica - 08866-008X7 или 00258-008X7-21
 
 ## Капот\двери\багажник
 * [Капот ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) 
@@ -1129,13 +1110,7 @@
 
 ---
 ## АКПП
-* Пропала половина передач, пропайка соленоидов:
-  - [Видео с описанием](https://www.youtube.com/watch?v=rvX2Rx_j1ts)
-  - Соленоид Е1 (О0753) - номер 62
-  - Соленоид Е2 (О0758) - номер 63
-  - На A340 Mark 2 проверка на 2-й передаче через провод D
-  - Для проверки на 2-й передаче используют провод L и 2
-  - При проблеме с 2 передачами проверяют соленоид на D
+* Пропала половина передач, поможет пропайка соленоидов: [Видео с описанием](https://www.youtube.com/watch?v=rvX2Rx_j1ts)
 
 ## Трос спидометра
 * Трос спидометра от хайса OEM#8371025120
@@ -1213,11 +1188,12 @@
 - кастомные опоры для jz на gx-балку от SelfMade [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_305232618%2Fphotos-37846447) && [vk.com/…](https://vk.com/albums-37846447?z=photo-37846447_301033856%2Fphotos-37846447)
 
 **балка**
+- Балка JZX81 под рулевую рейку JZX100 [avito.ru/…](https://www.avito.ru/nerehta/zapchasti_i_aksessuary/balka_jzx81_pod_rulevuyu_reyku_jzx100_7903446659)
 - Балка [drive2.ru/…](https://drive2.ru/c/1073452/)
 - Доработка балки [drive2.ru/…](https://drive2.ru/c/1073473/)
 - Рулевая рейка Ч.1 [drive2.ru/…](https://drive2.ru/c/1073494/)
-- Рулевая рейка Ч.2  [drive2.ru/…](https://drive2.ru/c/1073523/)
-- Рулевая рейка Ч.3  [drive2.ru/…](https://drive2.ru/c/1073538/)
+- Рулевая рейка Ч.2 [drive2.ru/…](https://drive2.ru/c/1073523/)
+- Рулевая рейка Ч.3 [drive2.ru/…](https://drive2.ru/c/1073538/)
 
 ## 2JZ-GE VVT-i
 - Запуск тахометра после свапа  [drive2.ru/…](https://drive2.ru/c/455549108938082000/) оно же [vk.com/…](https://vk.com/wall-31295460_803987)
