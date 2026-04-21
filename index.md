@@ -1405,6 +1405,7 @@ __________________
 - Подключение Тахометра после Swap 2JZ GE VVTI — x8x [drive2.ru/…](https://www.drive2.ru/c/455549108938082000/)  
 - Рестаил габариты с функцией освещение поворота — x8x [drive2.ru/…](https://www.drive2.ru/c/482496214789521831/)  
 - Установка подсветки поворота по штатному — x8x [drive2.ru/…](https://www.drive2.ru/c/484486880591609892/)
+- Датчик уровня топлива на электроприборке, переход на аварийный датчик [drive2.ru/…](https://www.drive2.ru/l/692658241712175803/)
 
 ## Стайлинг
 - Обвес jzx81 BigWin TypeSP — x8x [drive2.ru/…](https://www.drive2.ru/cars/toyota/mark_ii/mark_ii_80/selfmade/journal/288230376153069509/)  
