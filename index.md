@@ -834,6 +834,7 @@
 - изготовление значка светящегося - [drive2.ru/…](https://drive2.ru/l/480091582859575670/#comments)
 - диоды плоские 8шт - [drive2.ru/…](https://drive2.ru/l/480091582859575670/) && [drive2.ru/…](https://drive2.ru/l/480092132615389486/)
 - ремонт - [drive2.ru/…](https://drive2.ru/l/515321034925146636/)
+- кастомный светящийся значок (Mark, Cresta) от Royzin04 4к [t.me/Royzin04](https://t.me/Royzin04) [drive2.ru/…](https://www.drive2.ru/l/688846234898679352)
 
 ## Маячки
 - маячки. светодиод - [drive2.ru/…](https://drive2.ru/l/475997826191458843/)
