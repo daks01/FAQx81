@@ -468,6 +468,7 @@
 - аналог Perfect TO-66-GX80RD
 - подходит подушка переднего нижнего рычага форд 1035929 (200р) [vk.com/…](https://vk.com/wall-31295460_687687)
 - шайбы в подрамник 3к - [vk.com/…](https://vk.com/wall-31295460_595542)
+- шайбы в подрамник из полика (fdmetalwork) [vk.com/…](https://vk.com/wall-139119461_204)
 - из танковой резины точат [vk.com/…](https://vk.com/wall-31295460_630678)
 - на 90/100 есть шайбы из полика (чем мы хуже?…) [vk.com/](https://vk.com/wall-28505109_19231)
 - шайбы полик [xcessivemanufacturing.com/…](https://xcessivemanufacturing.com/toyota-mx83-t-mx83-rsb.html)
