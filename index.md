@@ -469,7 +469,6 @@
 - шайбы в подрамник 3к - [vk.com/…](https://vk.com/wall-31295460_595542)
 - из танковой резины точат [vk.com/…](https://vk.com/wall-31295460_630678)
 - на 90/100 есть шайбы из полика (чем мы хуже?…) [vk.com/](https://vk.com/wall-28505109_19231)
-- шайбы полик [technicoracing.com/…](http://technicoracing.com/cs/index.php?dispatch=products.view&product_id=264)
 - шайбы полик [xcessivemanufacturing.com/…](https://xcessivemanufacturing.com/toyota-mx83-t-mx83-rsb.html)
 
 ## Подушки рулевой рейки
@@ -781,9 +780,6 @@
 
 ## Распиновка
 - распиновка - [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/56022e0698142f9e3caa97fc/5604c19bd81144afd7b060c3/a61b501b2f03452ead22c005e9555919/G8oMkRxVOmQ.jpg) && [amazonaws.com/…](https://trello-attachments.s3.amazonaws.com/5604c19bd81144afd7b060c3/934x704/0628bbc8319829bf41487a9b97d5e596/gbO-lmsE7Co.jpg)
-- распиновка магнитол тойоты - [teletehnika.info/…](http://teletehnika.info/collection-of-sockets-autoradio/136-razyomy-amagnitol-toyota.html)
-- обознаения на схемах - [teletehnika.info/…](http://teletehnika.info/collection-of-sockets-autoradio/15-razyomy-avtomagnitol-i-ix-oboznacheniya.html)
-
 ## aux
 - впайка JACK 3.5 - [vk.com/…](https://vk.com/wall-31295460_475446) && [drive2.ru/…](https://drive2.ru/l/9182208/) && [vk.com/…](https://vk.com/wall-31295460_380361) && [vk.com/…](https://vk.com/wall-31295460_440455) && [drive2.ru/…](https://drive2.ru/l/459180246088874151/) && [vk.com/…](https://vk.com/wall150196019_1039) && [vk.com/…](https://vk.com/wall-31295460_483627) && [drive2.ru/…](https://drive2.ru/l/472659434011623784/)
 - пример впайки в чайник и касетник от 90
@@ -1230,7 +1226,6 @@
 - по 70-м кузовам, но тоже много полезного  [vk.com/…](https://vk.com/@x71squad-faq-novichkam-i-tem-kto-propustil)
 
 ## Англоязычные сайты. Японские сервисные мануалы
-- (ВАЖНО) англо/японоязычная инфа по всем моделям и кузовам [jzxproject.com...](https://jzxproject.com/bbs/index.php?/topic/10809-toyota-x-chassis-workshop-manual-and-wiring-guide-motherload/)
 - отдельным zip-файлом:
 VOL 7 = X70-> X80 1985-1991 [s3.amazonaws.com](https://s3.amazonaws.com/jzxp/RepairManuals/VOL+7.zip)
 VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/RepairManuals/VOL+8.zip) 
@@ -1248,7 +1243,7 @@ VOL 8 = X80-> X90 1992-1995 [s3.amazonaws.com](Https://s3.amazonaws.com/jzxp/Rep
 
 # Разное
 - петли дверные - ребилд бронзовыми втулками - [a.d-cd.net/…](https://a.d-cd.net/79fe578s-960.jpg) - [vk.com/…](https://vk.com/wall-31295460_412229) && [drive2.ru/…](https://drive2.ru/l/468927141791138873/) && втулки есть в ремкомплекте педали УАЗ [vk.com/…](https://vk.com/wall-31295460_466940)
-- петли дверные - ремкомплект от хонды [ajs.su/...](https://ajs.su/petli-dvernye-napravlyayushchie-honda-88-02/)  &&  [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://drive2.ru/l/525533573801837393/)
+- петли дверные - ремкомплект от хонды [vk.com/…](https://vk.com/wall-31295460_659230) && [drive2.ru/…](https://drive2.ru/l/525533573801837393/)
 - втулка дверных петель - Honda Civic Accord Cr-V Crx Ek Eg [ozon.ru/…](https://ozon.ru/t/rdsQ0An)
 - ремкомплект ограничителей дверей (LE4) - 400р (Ozon) / 900р (производитель) [drive2.ru/…](https://www.drive2.ru/l/706514562123303048/) && [lefent.ru/…](https://lefent.ru/le4-01-toyota-mark-2-2-6-7-8-9-10-11)
 - подкрылки передние от москвича 2141 [m.vk.com/…](https://m.vk.com/wall-31295460_295318?reply=295367#reply295367) && [vk.com/…](https://vk.com/wall-31295460_507633)
