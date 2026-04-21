@@ -35,6 +35,7 @@
 ## Номера расходников
 - схема подвески [перед](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20перед.%20макферсон.pdf){:target="_blank" rel="noopener"}<sup>🔥</sup>
 - схема подвески [зад (подрамник)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.png) && [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}<sup>🔥</sup>
+- [рулевые тяги и наконечники](https://vk.com/wall-31295460_420639) - номера и аналоги в теме
 - схема подвески [зад (подрамник)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.png) [(pdf)](https://daks01.github.io/FAQx81/assets/img/подвеска.%20зад.%20подрамник.pdf){:target="_blank" rel="noopener"}
 - пост на драйве [drive2.ru/…](https://drive2.ru/l/503523000281203440/)
 - пост про заднюю подвеску [drive2.ru/…](https://www.drive2.ru/l/645497714095689134/)
