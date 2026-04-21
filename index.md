@@ -1094,8 +1094,9 @@
 ## Капот\двери\багажник
 * [Капот ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/sell_spare_parts/kapot-dlja-toyota-mark-ii-81-81717285.html) 
 * [Облегченные крылья ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/oblegchennye-krylja-dlja-toyota-toyota-mark-ii-gx81-jzx81-92104634.html)
-* [Крышка багажника ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-toyota-mark-ii-81-81968063.html)
+* [Крышка багажника ArtTuning38 Mark II HT](https://www.farpost.ru/irkutsk/auto/gt/kryshka-bagazhnika-dlja-toyota-mark-ii-81-81968063.html)
 * [Боди-кит стеклопластика](https://vk.com/wall-31295460_521684)
+* [Стеклопластик из Иркутска](https://vk.com/wall-31295460_815389)
 * [D-apex капот и двери](https://drive2.ru/l/9498710/)
 * [D-apex капот SelfMade (дорест)](https://vk.com/d_apex_works)
 * [Agf капот дорест Mark II HT, багажник, двери](https://vk.com/wall-31295460_376849)
